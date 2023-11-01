@@ -8,7 +8,7 @@ We are going to take a closer look at the following authoring tools:
 * Notepad ++
 * Paligo
 * MS Word
-* Flare
+* MadCap Flare
   
 Contributions for Notepad++ and Paligo were made by D'vorah Sorrels. [Wix Profile](https://debben2018.wixsite.com/obw-presentation)
 
