@@ -39,7 +39,7 @@
     <ul>
       <li><b>Difficulty</b><br><i>Steeper learning curve for beginners. </i></li>
       <li><b>Knowledge Apriori</b><br><i>Requires technical expertise for complex setups.</i></li>
-      <li><b>Third Party Dependance</b><br><i>May need third-party extensions for specific functionalities.</i></li>
+      <li><b>Third Party Dependence</b><br><i>May need third-party extensions for specific functionalities.</i></li>
     </ul>
   </td> 
 </tr>
