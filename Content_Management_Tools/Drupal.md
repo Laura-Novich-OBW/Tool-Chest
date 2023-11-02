@@ -1,36 +1,35 @@
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td><a href="https://www.wix.com">Wix</a></td>
+    <td><a href="https://www.drupal.org">Drupal</a></td>
   </tr>
   <tr>
     <td><b>Open Source?</td>
-    <td>No - Proprietary</td>
+    <td>Yes - GPL 2</td>
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Wix is a website builder and hosting platform.</td>
+    <td>Drupal is an open source content management system.</td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>Wix is designed to be easy to learn and use.</td>
+    <td>Drupal is designed to be used by people with moderate to advanced knowledge of content managment tools.</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Wix is freemium software. This means that it is completely free to use, but allowes for payed add-ons and programs.</td>
+    <td>Drupal is free and open source.</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Wix is web-based and does not require any specific OS to operate.</td>
+    <td>Drupal is web-based and does not require any specific OS to operate.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Simplicity (TTV)</b><br><i>Easy to ues drag-and-drop page builder.</i></li>
-      <li><b>Free Hosting</b><br><i>Hosting included.</i></li>
-	  <li><b>Easy Upgrading</b><br><i>Premium options are easily intergrated and available.</i></li> 
-	  <li><b>Tested Templates</b> <br><i>Various tried and tested templates for various industries are available for free or for purchase.</i></li>
+      <li><b>Easy to Customize(TTV)</b><br><i>Easy to customize.</i></li>
+      <li><b>Support</b><br><i>Large Developer community to help and support the userbase.</i></li>
+	  <li><b>Scalability</b><br><i>Suitable for complex and scalable websites.</i></li> 
     </ul>
   </td>
 </tr>
@@ -38,9 +37,9 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
-      <li><b>Limited Design Capabilities</b><br><i>Wix is easy to use, but hard to master. Wix is not as flexible as other content management tools.</i></li>
-      <li><b>Reliance</b><br><i>Wix pages can only be hosted on and by Wix.</i></li>
-      <li><b>Performance</b><br><i>Compared to other content management tools, Wix might not be as performant, especially when mulriple plugins are being used</i></li>
+      <li><b>Difficulty</b><br><i>Steeper learning curve for beginners. </i></li>
+      <li><b>Knowledge Apriori</b><br><i>Requires technical expertise for complex setups.</i></li>
+      <li><b>Third Party Dependance</b><br><i>May need third-party extensions for specific functionalities.</i></li>
     </ul>
   </td> 
 </tr>
