@@ -1,4 +1,4 @@
-<img src='wixlogo.png' height='30'>
+<img src='Wixlogo.png' height='30'>
 <table>
   <tr>
     <td><b>Vendor</td>
