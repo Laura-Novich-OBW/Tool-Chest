@@ -1,5 +1,4 @@
-# Wix 
-<img src='Wixlogo.png' height='30'>
+# Wix <img src='Wixlogo.png' height='30'>
 <table>
   <tr>
     <td><b>Vendor</td>
