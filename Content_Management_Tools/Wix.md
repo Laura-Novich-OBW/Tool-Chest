@@ -17,7 +17,7 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Wix is freemium software. This means that it is completely free to use, but allowes for payed add-ons and programs.</td>
+    <td>Wix is freemium software. This means that it is completely free to use, but allowes for paid add-ons and programs.</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
@@ -27,7 +27,7 @@
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Simplicity (TTV)</b><br><i>Easy to ues drag-and-drop page builder.</i></li>
+      <li><b>Simplicity (TTV)</b><br><i>Easy to use drag-and-drop page builder.</i></li>
       <li><b>Free Hosting</b><br><i>Hosting included.</i></li>
 	  <li><b>Easy Upgrading</b><br><i>Premium options are easily intergrated and available.</i></li> 
 	  <li><b>Tested Templates</b> <br><i>Various tried and tested templates for various industries are available for free or for purchase.</i></li>
