@@ -1,4 +1,4 @@
- # <sup>WordPress</sup> <sub><sub><sub> <sub> <img src='WP-logo.png' height='75'> </sub> </sub></sub></sub>
+ # <sub><sub><sub><sub><img src='WP-logo.png' height='75'> </sub></sub></sub></sub><sup>WordPress</sup> 
 
 <table>
   <tr>
