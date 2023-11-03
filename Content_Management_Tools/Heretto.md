@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Previously called EasyDITA...</td>
+    <td>Previously called easyDITA, Heretto is a DITA-based CCMS that scales from SME sized organisations to large enterprises.</td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
@@ -19,11 +19,11 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Free trial available but other wise $150 - $250 per month depending on version. Enterprise licence available subject to negotiation</td>
+    <td>Free trial available but otherwise $150 - $250 per month depending on version. Enterprise licence available subject to negotiation</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Hosted service</td>
+    <td>Windows, Linux, Mac or Hosted service</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
