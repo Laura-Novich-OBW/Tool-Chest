@@ -1,6 +1,5 @@
- # <sub><sub><sub><sub><img src='WP-logo.png' height='75'> </sub></sub></sub></sub><sup>WordPress</sup> 
-
-<table>
+ <img src='WordPress-logo.png' height='150'>
+ <table>
   <tr>
     <td><b>Vendor</td>
     <td><a href="https://www.wordpress.com">WordPress</a> Foundation</td>
