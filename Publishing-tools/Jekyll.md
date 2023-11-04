@@ -1,5 +1,5 @@
 ## Jekyll  
-Add the logo
+![Jekyll](Jekyll_(software)_Logo.png)
 
 ### Vendor  
 Proudly hosted by GitHub, Jekyll is lovingly maintained by the core team of volunteers.  
