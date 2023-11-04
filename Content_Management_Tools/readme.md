@@ -3,10 +3,10 @@
   <th>
     <td><b>Wix</td> 
     <td><b>Drupal</td> 
-    <td><b>Paligo</td> 
+    <td><sub><img src='paligo-logo-1.png' height='20'></sub></td> 
     <td><b>MadCap</td> 
-    <td><b>WordPress</td> 
-    <td><b>Heretto</td> 
+    <td><img src='WordPress-cropped-logo.png' height='20'></td> 
+    <td><img src='Heretto-2.png' height='20'></td> 
   </th>
   <tr>
     <td><b>Open Source?</td>
