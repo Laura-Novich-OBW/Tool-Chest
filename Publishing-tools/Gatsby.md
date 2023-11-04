@@ -1,5 +1,5 @@
 # Gatsby
-Link to logo
+ ![Gatsby logo](Gatsby_Logo.png)
 
 ### Vendor  
 In February 2023, Netlify acquired Gatsby, Inc..  
