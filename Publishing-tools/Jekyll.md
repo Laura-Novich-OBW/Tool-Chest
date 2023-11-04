@@ -1,4 +1,5 @@
 ## Jekyll  
+Add the logo
 
 ### Vendor  
 Proudly hosted by GitHub, Jekyll is lovingly maintained by the core team of volunteers.  
