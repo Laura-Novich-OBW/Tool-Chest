@@ -1,6 +1,4 @@
 # Gatsby  
-Gatsby was launched in 2015.  
-Gatsby is an open-source static site generator built on top of Node.js using React and GraphQL.  
 
 ### Vendor  
 In February 2023, Netlify acquired Gatsby, Inc..  
@@ -9,6 +7,7 @@ In February 2023, Netlify acquired Gatsby, Inc..
 This is an open-source static site generator built on top of Node.js using React and GraphQL.  
 
 ### Description
+Launched in 2015. It is an open-source static site generator built on top of Node.js using React and GraphQL.  
 A free, modern and open source framework based on React that helps developers easily create ultra-fast sites.  
 
 ### Difficulty to Learn
