@@ -6,7 +6,7 @@ GitHub (owned by Microsoft).
 Proprietary.
 
 ##### Description:
-Public webpages hosted and published through GitHub. GitHub Pages converts GitHub markdown into a web page. It works as a built-in extension to GitHub and are commonly used for open source projects, blogs and other websites.
+Public webpages hosted and published through GitHub. GitHub Pages converts GitHub markdown into a web page. It works as a built-in extension to GitHub and is commonly used for open source projects, blogs and other websites.
 
 ##### Difficulty to Learn:
 3 out of 5 (average difficulty).
