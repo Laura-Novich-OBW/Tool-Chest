@@ -10,12 +10,12 @@
   </th>
   <tr>
     <td><b>Open Source?</td>
-    <td>No</td>
-    <td>No</td>
-    <td>No</td>
-    <td>No</td>
-    <td>No</td>
-    <td>No</td>
+    <td>&#10060</td>
+    <td>&#9989</td>
+    <td>&#10060</td>
+    <td>&#10060</td>
+    <td>&#9989</td>
+    <td>&#10060</td>
   </tr>
   <tr>
     <td><b>Learning curve</td>
@@ -37,54 +37,48 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Windows, Linux, Mac or Hosted service</td>
-    <td>Windows, Linux, Mac or Hosted service</td>
-    <td>Windows, Linux, Mac or Hosted service</td>
-    <td>Windows, Linux, Mac or Hosted service</td>
-    <td>Windows, Linux, Mac or Hosted service</td>
-    <td>Windows, Linux, Mac or Hosted service</td>
+    <td>Hosted service</td>
+    <td>Hosted service</td>
+    <td>Hosted service</td>
+    <td>Hosted service</td>
+    <td>Hosted service</td>
+    <td>Hosted service</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
   <td>
     <ul>
       <li><b>End-to-end platform</b></li>
-      <li><b>Real-time collaboration</b></li>
       <li><b>Intuitive UI</b></li>
     </ul>
   </td>
 <td>
     <ul>
       <li><b>End-to-end platform</b></li>
-      <li><b>Real-time collaboration</b></li>
+       <li><b>Intuitive UI</b></li>
+    </ul>
+  </td>
+<td>
+    <ul>
+      <li><b>End-to-end platform</b></li>
       <li><b>Intuitive UI</b></li>
     </ul>
   </td>
 <td>
     <ul>
       <li><b>End-to-end platform</b></li>
-      <li><b>Real-time collaboration</b></li>
       <li><b>Intuitive UI</b></li>
     </ul>
   </td>
 <td>
     <ul>
       <li><b>End-to-end platform</b></li>
-      <li><b>Real-time collaboration</b></li>
-      <li><b>Intuitive UI</b></li>
+       <li><b>Intuitive UI</b></li>
     </ul>
   </td>
 <td>
     <ul>
       <li><b>End-to-end platform</b></li>
-      <li><b>Real-time collaboration</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Real-time collaboration</b></li>
       <li><b>Intuitive UI</b></li>
     </ul>
   </td>
@@ -93,42 +87,36 @@
   <td><b>Drawbacks</td>
 <td>
     <ul>
-      <li><b>Technically oriented</b></li>
       <li><b>Inconsistent UI</b></li>
       <li><b>Expensive</b></li>
     </ul>
   </td> 
 <td>
     <ul>
-      <li><b>Technically oriented</b></li>
       <li><b>Inconsistent UI</b></li>
       <li><b>Expensive</b></li>
     </ul>
   </td> 
 <td>
     <ul>
-      <li><b>Technically oriented</b></li>
+       <li><b>Inconsistent UI</b></li>
+      <li><b>Expensive</b></li>
+    </ul>
+  </td> 
+<td>
+    <ul>
       <li><b>Inconsistent UI</b></li>
       <li><b>Expensive</b></li>
     </ul>
   </td> 
 <td>
     <ul>
-      <li><b>Technically oriented</b></li>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Technically oriented</b></li>
       <li><b>Inconsistent UI</b></li>
       <li><b>Expensive</b></li>
     </ul>
   </td> 
   <td>
     <ul>
-      <li><b>Technically oriented</b></li>
       <li><b>Inconsistent UI</b></li>
       <li><b>Expensive</b></li>
     </ul>
