@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Drupal is an open source content management system.</td>
+    <td>Drupal is an open-source content management system (CMS) that allows users to easily create and manage websites. It provides a flexible platform for building a wide range of websites, from personal blogs to large-scale enterprise applications, and offers a robust set of tools for content creation, organization, and customization.</td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
