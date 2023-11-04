@@ -21,7 +21,7 @@ This is a free, open source framework that helps developers build fast websites 
 Operating Systems like macOS Sierra or later (10.12); Windows 10 and Linux is used for authoring Gatsby themes.  
 
 ### Benefits
-In summary, Gatsby is a powerful web development framework that offers a variety of rendering solutions, uses GraphQL to fetch data from any source, focuses on page performance, allows for the easy building of progressive web applications, and integrates easily with almost all headless CMSs.  
+In summary, this is a powerful web development framework that offers a variety of rendering solutions.  
 * SEO Efficiency: Using GatsbyJS may leverage various internal code optimization techniques on the web pages. As a result, search engines will rank your website higher.  
 * Plugins: This includes several plugins that can help websites in various ways. All their plugins may be found on their official website.   
 * Fast page load speed: Their websites are substantially faster than many alternatives.  
