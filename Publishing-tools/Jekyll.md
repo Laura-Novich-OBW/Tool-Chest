@@ -2,19 +2,17 @@
 ![Jekyll](Jekyll_(software)_Logo.png)
 
 ### Vendor  
-Proudly hosted by GitHub, Jekyll is lovingly maintained by the core team of volunteers.  
+Proudly hosted by GitHub, Jekyll is maintained by the core team of volunteers.  
 
 ### Open Source or Proprietary  
 It is distributed under the open source MIT license.  
 
 ### Description  
-Jekyll is a popular site generator that transforms plain text documents (Markdown, HMTL, CSS, etc.) into static sites that can easily be used for blogs and informational websites.  
+This is a popular site generator that transforms plain text documents (Markdown, HMTL, CSS, etc.) into static sites that can easily be used for blogs and informational websites. Jekyll is a static site generator wrote in Ruby and with full support for markdown, turning the blogging experience much faster and easier. 
 
 ### Difficulty to Learn  
-
-Jekyll is one among a few static site generators known for its quick installation and friendly operation. With Jekyll, it is incredibly easy to create a new website on your own local computer, design to your heart’s content, and launch your site to the web with a few simple commands.  
-If you already have expertise in the Ruby ecosystem, you will feel right at home. Even without much Ruby experience, Jekyll is one of the easiest SSGs to learn.  
-Jekyll is a static site generator wrote in Ruby and with full support for markdown, turning the blogging experience much faster and easier.  
+It is incredibly easy to create a new website on your own local computer, design to your heart’s content, and launch your site to the web with a few simple commands with Jekyll.  
+With or without knowledge of Ruby ecosystem, Jekyll is one of the easiest Static Site Generation (SSG) to learn.  
 On the scale of 1 to 5 (1 is the easiest to 5 being the most difficult), I would rate Jekyll to be 2.  
 
 ### Cost  
