@@ -1,4 +1,4 @@
- <img src='WordPress-logo.png' height='150'>
+ <img src='WordPress-cropped-logo.png' height='70'>
  <table>
   <tr>
     <td><b>Vendor</td>
