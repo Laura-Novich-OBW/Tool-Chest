@@ -1,9 +1,9 @@
- # <img src='Heretto-logo.png' height='30'> 
+ # <img src='Heretto-2.png' height='40'> 
 
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td><a href="https://www.heretto.com">Jorsek</a> </td>
+    <td><a href="https://www.heretto.com">Heretto</a> previously known as Jorsek</td>, 
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Previously called easyDITA, Heretto is a DITA-based CCMS that scales from SME sized organisations to large enterprises.</td>
+    <td>Previously called easyDITA, Heretto is a <a href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture">DITA</a>-based CCMS that scales from SME sized organisations to large enterprises.</td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
