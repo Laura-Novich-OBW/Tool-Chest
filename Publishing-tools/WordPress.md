@@ -1,33 +1,33 @@
 # WordPress
-##### Vendor:  
+### Vendor:  
 WordPress Foundation.
 
-##### Open Source or Proprietary:
+### Open Source or Proprietary:
 Open source.
 
-##### Description:
-A web content management system.
+### Description:
+A web content management system, one of the most popular in the world.
 
-##### Difficulty to Learn:
+### Difficulty to Learn:
 3 out of 5 (average difficulty).
 
-##### Cost:
+### Cost:
 Free. Commercial plugins and themes are also available.
 
-##### OS Requirements:
+### OS Requirements:
 Unix-like, Linux, Windows.
 
-##### Benefits:
+### Benefits:
 * Free, with advanced (but paid) options available at wordpress.com and other hosting services.
 * An old, reliable project with well-developed user documentation.
 * Flexible and customizable (thousands of plugins and themes).
 * SEO-friendly by default.
 * eCommerce features available through the WooCommerce plugin.
 
-##### Disadvantages:
+### Disadvantages:
 * Difficult to keep up with updates.
 * Security vulnerabilities.
 * Dependency on plugins, which are often imperfect.
   
-##### Vendor Link: 
+### Vendor Link: 
 https://wordpress.org
