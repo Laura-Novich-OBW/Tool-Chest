@@ -1,8 +1,9 @@
-# MadCap IXIA CCMS <img src='Wixlogo.png' height='20'>
+# MadCap IXIA CCMS
+
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td>[Madcap Software](https://www.madcapsoftware.com/)</td>
+    <td> [Madcap Software](https://www.madcapsoftware.com/)</td>
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -14,7 +15,7 @@
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>IXIA has a steep learning curve aimed at advanced technical writers. </td>
+    <td>MadCap IXIA CCMS has a steep learning curve aimed at advanced technical writers, although some reviews do say the user face is good for beginning writers. </td>
   </tr> 
   <tr>
     <td><b>Cost</td>
@@ -28,9 +29,9 @@
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Powerful  tool: </b><br><i></i>Able to manage a huge content repository with fast searching and full reuse capabilities. </li>
-      <li><b>Feature-filled </b><br><i>A feature rich authoring environment with capabilities for tagging, content reuse, and cross-referencing. </i></li>
-      <li><b>Version Management</b><br><i>Tracking of all versions, including review comments and collaborative revisions allow for changes or reverts as necessary.</li>
+      <li><b>Powerful  tool:</b><br><i>Able to manage a huge content repository with fast searching and full topic reuse capabilities.</li>
+      <li><b>Feature-filled </b><br><i>A feature rich authoring environment with capabilities for tagging, content reuse, and cross-referencing.</li>
+      <li><b>Version Management</b><br><i>Tracking of all versions, review comments, and collaborative revisions allow for changes or reverts as necessary.</li>
       <li><b>User friendly interface</b><br><i>Numerous reviews describe a user-friendly interface that can be used by those new to DITA as well as experts.</li>
     </ul>
   </td>
@@ -40,10 +41,10 @@
   <td>
     <ul>
       <li><b>Steep learning curve</b><br><i>Created for large enterprise projects the interface can be overwhelming to some. </i></li>
-      <li><b>High cost</b><br><i>Created for medium to enterprise sized clients packages start on the higher price range . </i></li>
+      <li><b>High cost</b><br><i>Created for medium to enterprise sized clients, packages start on the higher price range. </i></li>
     </ul>
   </td> 
 </tr>
-<tr>>
+<tr>
 </tr>
 </table>
