@@ -10,19 +10,19 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Madcap Software offers several options for content management systems, including Madcap Flare, Madcap Centeral, and Madcap IXIA CCMS (Component Content Management System).  </td>
+    <td>Madcap Software offers several options for content management systems, including Madcap Flare and the newly aquired Madcap IXIA CCMS (Component Content Management System).   </td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>The user interface is fairly intuitive, and there is a great deal of online information to help with different features. Basic authoring functions like reusing content, using variables, and creating and organizing topics, folders, and publications can be learned quickly. It's also easy to publish to different formats once settings are configured. </td>
+    <td>I've found reviewers that say MadCap Flare can have a steep learning curve, although it offeres a completely customizable interface. I imagine the DITA based IXIA can only require additional time investment to become comfortable with it's tools.</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>I've read reviews stating it goes from competitive to high pricing. The website gives a few options for packages with  a range of authors, reviewers, and functions. For more information, see https://paligo.net/pricing/. </td>
+    <td>MapCap Software offers a free trial for MadCap Flare followed by a monthly rate of $182 per month, billed yearly. The MadCap IXIA CCMS requires further investigation for billing details. For more information,  see https://www.madcapsoftware.com/pricing/</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Paligo requires an internet connection and runs on most browsers. For more information, see https://paligo.net/docs/en/system-requirements-and-recommendations.html </td>
+    <td>MadCap Flare is . For more information, see https://paligo.net/docs/en/system-requirements-and-recommendations.html </td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
