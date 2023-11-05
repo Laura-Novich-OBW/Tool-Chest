@@ -1,4 +1,4 @@
-# Drupal <sub><img src='drupallogo.png' height='70'></sub>
+# <sub><img src='drupal.png' height='50'></sub>
 <table>
   <tr>
     <td><b>Vendor</td>
