@@ -1,5 +1,5 @@
 # Repository Tools
-The world of technical writing is quickly becoming more and more globalized and less office-based. Companies also have many different contributors, such as technical writers, developers, QA testers, and more. To keep track of who's contributing what and to make sure everything works together smoothly, many companies have turned to using a repository tool.  
+The world of technical writing is quickly becoming more globalized and less office-based. Companies also have many different contributors, including technical writers, developers, QA testers, and more. To keep track of who's contributing what and to make sure everything works together smoothly, many companies have turned to using a repository tool.  
 
 Repository tools are software applications that let users collaborate remotely, version control, track changes, and maintain one central hub of digital content.
 
