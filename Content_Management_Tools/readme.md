@@ -31,7 +31,7 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td>Advanced</td>
     <td>Intermediate</td>
     <td>Easy</td>
-    <td>Advanced</td>
+    <td>Easy</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
@@ -51,82 +51,5 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td>Hosted service</td>
     <td>Hosted service</td>
   </tr> 
-  <tr>
-    <td><b>Benefits</td>
-  <td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-       <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-       <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td><b>Drawbacks</td>
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-       <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-  <td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-</tr>
+
 </table>
