@@ -1,6 +1,5 @@
 # Hugo
-
- ![Hugo logo](Hugo_logo.png)
+![Hugo logo](Hugo_logo.png)
 
 ### Vendor  
 Open-source publishing tool created by a community of developers and contributors.  
