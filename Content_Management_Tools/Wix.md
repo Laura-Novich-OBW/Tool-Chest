@@ -1,4 +1,4 @@
-# Wix <img src='Wixlogo.png' height='20'>
+# <img src='Wixlogo.png' height='25'>
 <table>
   <tr>
     <td><b>Vendor</td>
@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Wix is a website builder and hosting platform.</td>
+    <td>Wix is an end-to-end web creation platform for agencies and freelancers who create, develop, and manage digital experiences for clients at any scale.</td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
@@ -18,7 +18,7 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Wix is freemium software. This means that it is completely free to use, but allowes for paid add-ons and programs.</td>
+    <td>Wix is freemium software. This means that it is completely free to use, but allows for paid add-ons and programs. Further details can be found <a href="https://support.wix.com/en/article/pricing-plans-an-overview">here</a></td>
   </tr>
   <tr>
     <td><b>Operating System</td>
