@@ -1,22 +1,23 @@
 # Hugo
+![Hugo logo](Hugo_logo.png)
 
 ### Vendor  
-Hugo is an open-source publishing tool created by a community of developers and contributors.  
+Open-source publishing tool created by a community of developers and contributors.  
 
 ### Open Source or Proprietary
-Hugo is an open-source tool, which means it is freely available for anyone to use and modify.
+Open-source tool, which means it is freely available for anyone to use and modify.
 
 ### Description
-Hugo is a lightning-fast static site generator designed for creating websites and blogs. It allows users to write content in Markdown and then generates static HTML pages. The tool is known for its exceptional speed, simplicity, and flexibility,   making it a preferred choice for developers and content creators.
+Lightning-fast static site generator designed for creating websites and blogs. It allows users to write content in Markdown and then generates static HTML pages. The tool is known for its exceptional speed, simplicity, and flexibility,   making it a preferred choice for developers and content creators.
 
 ### Difficulty to Learn
-Hugo is relatively easy to learn, especially for those familiar with Markdown and basic web development concepts. Its simplicity and well-documented features make it accessible to a wide range of users.
+Relatively easy to learn, especially for those familiar with Markdown and basic web development concepts. Its simplicity and well-documented features make it accessible to a wide range of users.
 
 ### Cost
-Hugo is entirely free to use as it's open source, with no licensing fees or costs associated with its use.
+Entirely free to use as it's open source, with no licensing fees or costs associated with its use.
 
 ### OS Requirements
-Hugo is a cross-platform tool, compatible with various operating systems, including Windows, macOS, and Linux, making it highly versatile.
+Cross-platform tool, compatible with various operating systems, including Windows, macOS, and Linux, making it highly versatile.
 
 ### Benefits
 - Exceptional Speed: Hugo is renowned for its rapid site generation, enabling quick and efficient publishing.
@@ -28,5 +29,6 @@ Hugo is a cross-platform tool, compatible with various operating systems, includ
 - Steeper Learning Curve for Advanced Customization: While it's easy to get started, advanced customization may require a deeper understanding of Go templates.
 - Limited Dynamic Content: As a static site generator, Hugo is less suited for websites that require real-time dynamic content.
   
-### Vendor Link 
+### Vendor Link: 
 [GoHugo.io](GoHugo.io)
+

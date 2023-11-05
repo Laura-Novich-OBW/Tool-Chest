@@ -1,8 +1,8 @@
-# WordPress
-<table>
+ <img src='WordPress-cropped-logo.png' height='70'>
+ <table>
   <tr>
     <td><b>Vendor</td>
-    <td>WordPress</td>
+    <td><a href="https://www.wordpress.com">WordPress</a> Foundation</td>
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -45,10 +45,6 @@
       <li><b>Performance</b><br><i>Compared to other Content Management Tools, WordPress might not be as performant, especially when mulriple plugins are being used</i></li>
     </ul>
   </td> 
-</tr>
-<tr>
-  <td><b>Vendor link</td>
-  <td> https://www.wordpress.com</td>
 </tr>
 </table>
 
