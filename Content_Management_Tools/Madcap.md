@@ -1,8 +1,8 @@
-# Paligo
+# Madcap
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td></td>
+    <td>Madcap Software</td>
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td></td>
+    <td>Madcap Software offers several options for content management systems, including Madcap Flare, Madcap Centeral, and Madcap IXIA CCMS (Component Content Management System).  </td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
