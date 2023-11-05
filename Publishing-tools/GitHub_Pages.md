@@ -1,4 +1,5 @@
 # GitHub Pages
+ ![GitHub Pages logo](GitHub Pages.png)
 ### Vendor:  
 GitHub (owned by Microsoft).
 
