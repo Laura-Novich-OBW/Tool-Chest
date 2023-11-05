@@ -18,7 +18,7 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>From free to $1,000+ per month depending on feature package required. https://wordpress.com/pricing/</td>
+    <td>From free to $1,000+ per month depending on feature package required. <a href="https://www.wordpress.com/pricing">WordPress Pricing</a> </td>
   </tr>
   <tr>
     <td><b>Operating System</td>
