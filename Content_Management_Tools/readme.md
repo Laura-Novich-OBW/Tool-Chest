@@ -25,6 +25,16 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td>&#10060</td>
   </tr>
   <tr>
+    <td><b>Target Market Segment</td>
+    <td>SME</td>
+    <td>SME/Enterprise</td>
+    <td>Enterprise</td>
+    <td>Large Enterprise</td>
+    <td>SME</td>
+    <td>SME/Enterprise</td>
+  </tr> 
+  <tr>
+  <tr>
     <td><b>Learning curve</td>
     <td>Easy</td>
     <td>Intermediate</td>
@@ -35,21 +45,21 @@ As the volume of content in  organisations has proliferated, so the need to mana
   </tr> 
   <tr>
     <td><b>Cost</td>
+    <td>$</td>
     <td>$$$</td>
     <td>$$$</td>
-    <td>$$$</td>
-    <td>$$$</td>
-    <td>$$$</td>
+    <td>$$$$</td>
+    <td>$</td>
     <td>$$$</td>
   </tr>
   <tr>
-    <td><b>Operating System</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
+    <td><b>Hosting Option</td>
+    <td>Wix Hosted</td>
+    <td>Options</td>
+    <td>Paligo Hosted</td>
+    <td>Options</td>
+    <td>Options</td>
+    <td>Options</td>
   </tr> 
 
 </table>
