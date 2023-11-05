@@ -8,12 +8,12 @@ As the volume of content in  organisations has proliferated, so the need to mana
 ## Content Management Tools Comparative Matrix
 <table>
   <th>
-    <td><b><a href="Wix.md"><img src='Wixlogo.png' height='20'></a></td> 
-    <td><b><img src='drupal.png' height='30'></td> 
-    <td><sub><img src='paligo-logo-1.png' height='30'></sub></td> 
-    <td><b><img src='MadCapFlare-Logo.png' height='35'></td> 
+    <td><a href="Wix.md"><img src='Wixlogo.png' height='20'></a></td> 
+    <td><a href="Drupal.md"><img src='drupal.png' height='30'></a></td> 
+    <td><sub><a href="Paligo.md"><img src='paligo-logo-1.png' height='30'></a></sub></td> 
+    <td><a href="MadCap.md"><img src='MadCapFlare-Logo.png' height='35'></a></td> 
     <td><img src='WordPress-cropped-logo.png' height='30'></td> 
-    <td><img src='Heretto-2.png' height='20'></td> 
+    <td><a href="WordPress.md"><img src='Heretto-2.png' height='20'></a></td> 
   </th>
   <tr>
     <td><b>Open Source?</td>
