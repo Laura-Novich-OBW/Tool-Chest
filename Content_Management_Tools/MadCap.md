@@ -1,8 +1,8 @@
-# Madcap
+# MadCap IXIA CCMS <img src='Wixlogo.png' height='20'>
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td>Madcap Software</td>
+    <td>[Madcap Software](https://www.madcapsoftware.com/)</td>
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -10,28 +10,28 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Madcap Software offers several options for content management systems, including Madcap Flare and the newly aquired Madcap IXIA CCMS (Component Content Management System).   </td>
+    <td>Madcap Software offers several options for content management systems including the popular authoring tool, Madcap Flare, and the newly aquired Madcap IXIA CCMS (Component Content Management System). As an enterprise-class DITA CCMS based on the DITA standard (Darwin Information Typing Architecture), MAdCap IXIA uses an open XML-based method of managing and creating technical publications.
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>I've found reviewers that say MadCap Flare can have a steep learning curve, although it offeres a completely customizable interface. I imagine the DITA based IXIA can only require additional time investment to become comfortable with it's tools.</td>
+    <td>IXIA has a steep learning curve aimed at advanced technical writers. </td>
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>MapCap Software offers a free trial for MadCap Flare followed by a monthly rate of $182 per month, billed yearly. The MadCap IXIA CCMS requires further investigation for billing details. For more information,  see https://www.madcapsoftware.com/pricing/</td>
+    <td>The MadCap IXIA CCMS billing details are not given by MadCap Software, but previous records show prices ranging from $3,850 to $21,585 for starter to enterprise users. For more information,  see https://www.madcapsoftware.com/pricing/</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>While MapCap Flare requires a Windows based OS, MadCap IXIA CCMS may offer broader options including LINUX based server. For more information, see https://www.ixiasoft.com/learning-support/documentation/version/5-0/system-requirements/</td>
+    <td>MadCap IXIA CCMS is available on Windows, Linux, and Mac based operating systems. For more information, see https://www.ixiasoft.com/learning-support/documentation/version/5-0/system-requirements/</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Authoring flexibility: </b><br><i>A built in WYSIWG editor helps preview content, while working on a topic based, but less-structured authoring tool</i></li>
-      <li><b>Easy to use existing content </b><br><i>Easy to import files from a variety of sources such Word, Markdown, Confluence, and FrameMaker </i></li>
-      <li><b>Multi-channel publishing</b><br><i>Wide range of settings and integrations allows for a variety of documentation outputs</li>
-      <li><b>On-premise or cloud operation flexibility</b><br><i>Different options allow users to focus on the characteristics that suite their workflow.</li>    
+      <li><b>Powerful  tool: </b><br><i></i>Able to manage a huge content repository with fast searching and full reuse capabilities. </li>
+      <li><b>Feature-filled </b><br><i>A feature rich authoring environment with capabilities for tagging, content reuse, and cross-referencing. </i></li>
+      <li><b>Version Management</b><br><i>Tracking of all versions, including review comments and collaborative revisions allow for changes or reverts as necessary.</li>
+      <li><b>User friendly interface</b><br><i>Numerous reviews describe a user-friendly interface that can be used by those new to DITA as well as experts.</li>
     </ul>
   </td>
 </tr>
@@ -39,10 +39,8 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
-      <li><b>On-premise tool</b><br><i>While MadCap offers cloud options through it's MadCap Central Software Flare is an on-premise tool that can be limiting for collaborative projects and review. </i></li>
-      <li><b>Can be buggy</b><br><i>Reviews describe the userface as buggy or lagging in a number of cases. </i></li>
-      <li><b>Limited search feature</b><br><i>Reviews describe a slow search feature particularly when searching large amounts of content files.</i></li>
-      <li><b>Steep learning curve</b><br><i>The steep learning curve was sited by some as a difficultly in their use of the product. </i></li>
+      <li><b>Steep learning curve</b><br><i>Created for large enterprise projects the interface can be overwhelming to some. </i></li>
+      <li><b>High cost</b><br><i>Created for medium to enterprise sized clients packages start on the higher price range . </i></li>
     </ul>
   </td> 
 </tr>
