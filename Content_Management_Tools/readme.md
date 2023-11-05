@@ -34,7 +34,6 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td>SME/Enterprise</td>
   </tr> 
   <tr>
-  <tr>
     <td><b>Learning curve</td>
     <td>Easy</td>
     <td>Intermediate</td>
@@ -53,10 +52,10 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td>$$$</td>
   </tr>
   <tr>
-    <td><b>Hosting Option</td>
-    <td>Wix Hosted</td>
+    <td><b>Cloud Hosting</td>
+    <td>Wix</td>
     <td>Options</td>
-    <td>Paligo Hosted</td>
+    <td>Paligo </td>
     <td>Options</td>
     <td>Options</td>
     <td>Options</td>
