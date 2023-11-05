@@ -8,7 +8,7 @@ As the volume of content in  organisations has proliferated, so the need to mana
 ## Content Management Tools Comparative Matrix
 <table>
   <th>
-    <td><b><img src='Wixlogo.png' height='20'></td> 
+    <td><b><a href="Wix.md"><img src='Wixlogo.png' height='20'></a></td> 
     <td><b><img src='drupal.png' height='30'></td> 
     <td><sub><img src='paligo-logo-1.png' height='30'></sub></td> 
     <td><b><img src='MadCapFlare-Logo.png' height='35'></td> 
