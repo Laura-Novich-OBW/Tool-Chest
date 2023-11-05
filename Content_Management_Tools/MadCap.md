@@ -22,17 +22,16 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>MadCap Flare is . For more information, see https://paligo.net/docs/en/system-requirements-and-recommendations.html </td>
+    <td>While MapCap Flare requires a Windows based OS, MadCap IXIA CCMS may offer broader options including LINUX based server. For more information, see https://www.ixiasoft.com/learning-support/documentation/version/5-0/system-requirements/</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Easy to use</b><br><i>Intuitive interface allows authors and reviewers to get started quickly</i></li>
-      <li><b>Good support </b><br><i>Large collection of self-help resources and friendly and available customer service helps to learn the product independently or through representatives </i></li>
-	  <li><b>Scalable</b><br><i>Variety of options allow increased users and functionality.</i></li> 
-	  <li><b>Versioning and branching</b> <br><i>Easy to develop and track changes to documentation</i></li>
+      <li><b>Authoring flexibility: </b><br><i>A built in WYSIWG editor helps preview content, while working on a topic based, but less-structured authoring tool</i></li>
+      <li><b>Easy to use existing content </b><br><i>Easy to import files from a variety of sources such Word, Markdown, Confluence, and FrameMaker </i></li>
       <li><b>Multi-channel publishing</b><br><i>Wide range of settings and integrations allows for a variety of documentation outputs</li>
+      <li><b>On-premise or cloud operation flexibility</b><br><i>Different options allow users to focus on the characteristics that suite their workflow.</li>    
     </ul>
   </td>
 </tr>
@@ -40,14 +39,13 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
-      <li><b>Dependence on the internet</b><br><i>Limits work time to times when internet access is available, and can affect performance</i></li>
-      <li><b>Limited access</b><br><i>Basic plans can be expensive to add users, and there are limited types of user options</i></li>
-      <li><b>Migration difficulties</b><br><i>A number of reviewers described difficulties transferring content from different sources including in the case of content migrations </i></li>
+      <li><b>On-premise tool</b><br><i>While MadCap offers cloud options through it's MadCap Central Software Flare is an on-premise tool that can be limiting for collaborative projects and review. </i></li>
+      <li><b>Can be buggy</b><br><i>Reviews describe the userface as buggy or lagging in a number of cases. </i></li>
+      <li><b>Limited search feature</b><br><i>Reviews describe a slow search feature particularly when searching large amounts of content files.</i></li>
+      <li><b>Steep learning curve</b><br><i>The steep learning curve was sited by some as a difficultly in their use of the product. </i></li>
     </ul>
   </td> 
 </tr>
-<tr>
-  <td><b>Vendor link</td>
-  <td>https://paligo.net/</td>
+<tr>>
 </tr>
 </table>
