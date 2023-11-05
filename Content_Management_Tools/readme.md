@@ -12,8 +12,8 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td><a href="Drupal.md"><img src='drupal.png' height='30'></a></td> 
     <td><sub><a href="Paligo.md"><img src='paligo-logo-1.png' height='30'></a></sub></td> 
     <td><a href="MadCap.md"><img src='MadCapFlare-Logo.png' height='35'></a></td> 
-    <td><img src='WordPress-cropped-logo.png' height='30'></td> 
-    <td><a href="WordPress.md"><img src='Heretto-2.png' height='20'></a></td> 
+    <td><a href="WordPress.md"><img src='WordPress-cropped-logo.png' height='30'></td> 
+    <td><a href="Heretto.md"><img src='Heretto-2.png' height='20'></a></td> 
   </th>
   <tr>
     <td><b>Open Source?</td>
@@ -26,12 +26,12 @@ As the volume of content in  organisations has proliferated, so the need to mana
   </tr>
   <tr>
     <td><b>Learning curve</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
+    <td>Easy</td>
+    <td>Intermediate</td>
+    <td>Advanced</td>
+    <td>Intermediate</td>
+    <td>Easy</td>
+    <td>Advanced</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
