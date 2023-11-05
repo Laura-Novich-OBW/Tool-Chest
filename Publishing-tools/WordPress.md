@@ -1,4 +1,5 @@
 # WordPress
+ ![WordPress logo](WordPress-Logo-2008-present.jpg)
 ### Vendor:  
 WordPress Foundation.
 
