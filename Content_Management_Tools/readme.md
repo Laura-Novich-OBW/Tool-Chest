@@ -1,11 +1,11 @@
 # Content Management Tools Comparative Matrix
 <table>
   <th>
-    <td><b>Wix</td> 
-    <td><b>Drupal</td> 
+    <td><b><img src='Wixlogo.png' height='15'></td> 
+    <td><b><img src='drupallogo.png' height='50'></td> 
     <td><sub><img src='paligo-logo-1.png' height='20'></sub></td> 
     <td><b>MadCap</td> 
-    <td><img src='WordPress-cropped-logo.png' height='20'></td> 
+    <td><img src='WordPress-cropped-logo.png' height='30'></td> 
     <td><img src='Heretto-2.png' height='20'></td> 
   </th>
   <tr>
