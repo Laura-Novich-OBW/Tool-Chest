@@ -30,8 +30,8 @@
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Easy to Customize(TTV)</b><br><i>Easy to customize.</i></li>
-      <li><b>Support</b><br><i>Large Developer community to help and support the userbase.</i></li>
+      <li><b>Easy to customize(TTV)</b><br><i>Easy to customize.</i></li>
+      <li><b>Support</b><br><i>Large developer community to help and support the userbase.</i></li>
 	  <li><b>Scalability</b><br><i>Suitable for complex and scalable websites.</i></li> 
     </ul>
   </td>
