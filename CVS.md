@@ -1,6 +1,6 @@
 # CVS (Concurrent Versions System)
-## Vendor
-https://cvs.nongnu.org/
+## Developer
+Dick Grune
 ## Product Type
 Open Source
 ## Description
@@ -25,3 +25,5 @@ Although CVS was originally developed on a Unix-based system (and Unix still rem
   In CVS, you can only work with individual files (similar to RCS) and are required to make contact with the server for nearly every operation. This can be time-consuming and expensive.
 * **Outdated Technology**  
   CVS is an older version control system that has largely been replaced by newer sytems (such as Git and Subversion). Although it is still used in some organizations, it isn't what you want to use if you need new and advanced features.
+## Link
+https://cvs.nongnu.org/
