@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td><a href="https://www.heretto.com">Heretto</a> previously known as Jorsek</td>, 
+    <td><a href="https://www.heretto.com">Heretto</a> previously known as Jorsek.</td> 
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Cloud hosted service</td>
+    <td>Cloud hosted service.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
