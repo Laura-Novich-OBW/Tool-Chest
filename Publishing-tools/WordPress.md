@@ -1,5 +1,6 @@
 # WordPress
- ![WordPress logo](WordPress-Logo-2008-present.jpg)
+ <img src="WordPress-Logo-2008-present.jpg" alt="WordPress-Logo" width="200"/>
+ 
 ### Vendor:  
 WordPress Foundation.
 
