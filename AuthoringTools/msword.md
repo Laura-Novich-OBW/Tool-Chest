@@ -1,13 +1,13 @@
 # Microsoft Word  
 <img src="wordlogo.png" width="100" height="100">
 
-## Vendor
+## `Vendor`
 [Microsoft Corporation](https://www.microsoft.com/en-in)
 
-## Open Source or Proprietary
+## `Open Source or Proprietary`
 Proprietary
 
-## Description
+## `Description`
 Microsoft Word is a word processing software application, widely used as an authoring tool in technical writing.  Some of its key attributes as an authoring tool include:
 
 * **Document Creation:**
@@ -42,11 +42,11 @@ As already mentioned, Word facilitates easy collaboration with other users by:
   * enabling writers to export their documents, for sharing purposes, to various file formats such as PDF;
   * being widely compatible with different operating systems, allowing other users to easily access and edit documents.
 
-## Learning Curve  
+## `Learning Curve`  
 
 The basics of Microsoft Word are fairly easy to learn. However, professional instruction or guided online tutorials may be required to master the more advanced features of Word. Without proper instruction, one may never realize the full array of powerful tools within MS Word. There is a plethora of free online tutorials, Youtube shorts and videos available for many Word features and tools. 
 
-## Cost Rating
+## `Cost Rating`
 Microsoft Word can be purchased once off at a price of $159.99. This will include 1 license for 1 PC or Mac. However, you save when you get Word with Microsoft 365! With Microsoft 365 you get Word, plus Excel, PowerPoint, Outlook, and 1 TB of cloud storage per person for all your files, music, photos, videos and more.  
 For a business you have different options with Microsoft 365:  
 
@@ -59,7 +59,7 @@ Depending on the size of a business, the number of employees needing to use MS W
 
 If you are a freelance technical writer/contractor you will most certainly benefit from purchasing Microsoft 365 Family at $99.99/year. One to six people can share the plan, each person being allowed to use up to 5 devices simultaneously.
 
-## Microsoft Word Benefits
+## `Microsoft Word Benefits`
 
 * **Find and Replace:**
 This powerful feature allows users to replace a word across an entire document with the click of a button.
@@ -73,13 +73,13 @@ Most of us have grown up with MS Word, using it both at school and in our workin
 * **Mobile App Extendability:**
 The features of Microsoft Word also extend to its mobile apps. The mobile app allows writers to access and edit documents on the go, without much fuss, on their mobile devices, while collaborating with other users.
 
-## Microsoft Word Disadvantages
+## `Microsoft Word Disadvantages`
 
 * MS Word is not specifically designed for creating user manuals, help files, documentation websites, or eBooks. Consequently, a technical writer may find it difficult to produce accurate and maintainable documentation projects while using this software.
 * MS Word is a very complex piece of software trying to do too much. As mentioned in the learning curve, it can be difficult to learn all of its features effectively.
 * MS Word focuses on single document editing only. Producing consistently styled, and interlinked documents, or reuse media elements such as pictures and videos, in multiple documents, becomes very problematic.
 * It is not easy to make changes in MS Word documents. Future changes in a document may leave you manually making changes throughout the document which also affects the document formatting in other places. This is frustrating, time consuming and an inefficient way to work.
 
-## OS Requirements
+## `OS Requirements`
 Microsoft Word runs on Windows 10 or later.
 
