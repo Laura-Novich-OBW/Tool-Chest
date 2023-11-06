@@ -1,5 +1,5 @@
 # Content Management Tools
-As the volume of content in an organisation has proliferated, so the need to manage and govern that content has increased. Content management tools address this requirement with a set of capabilities that spans the entire content lifecycle from creation through to deletion. As such, these systems often include tools found in other categories covered by this review project.<p>
+As the volume of content in  organisations has proliferated, so the need to manage and govern that content has increased. Content management tools address this requirement with a set of capabilities that spans the entire content lifecycle from creation through to deletion. As such, these systems often include tools found in other categories covered by this review project.<p>
 
 <sup>Prepared by:
 <a href="https://www.linkedin.com/in/sol-barron-36a07a1/">Sharon Schnee</a> , <a href="https://www.linkedin.com/in/sol-barron-36a07a1/">Alan Bariman</a>  and <a href="https://www.linkedin.com/in/sol-barron-36a07a1/">Shlomo Barron</a> 
@@ -8,12 +8,12 @@ As the volume of content in an organisation has proliferated, so the need to man
 ## Content Management Tools Comparative Matrix
 <table>
   <th>
-    <td><b><img src='Wixlogo.png' height='20'></td> 
-    <td><b><img src='drupal.png' height='30'></td> 
-    <td><sub><img src='paligo-logo-1.png' height='30'></sub></td> 
-    <td><b><img src='MadCapFlare-Logo.png' height='35'></td> 
-    <td><img src='WordPress-cropped-logo.png' height='30'></td> 
-    <td><img src='Heretto-2.png' height='20'></td> 
+    <td><a href="Wix.md"><img src='Wixlogo.png' height='20'></a></td> 
+    <td><a href="Drupal.md"><img src='drupal.png' height='30'></a></td> 
+    <td><sub><a href="Paligo.md"><img src='paligo-logo-1.png' height='30'></a></sub></td> 
+    <td><a href="MadCap.md"><img src='ixia-logo.png' height='35'></a></td> 
+    <td><a href="WordPress.md"><img src='WordPress-cropped-logo.png' height='30'></td> 
+    <td><a href="Heretto.md"><img src='Heretto-2.png' height='20'></a></td> 
   </th>
   <tr>
     <td><b>Open Source?</td>
@@ -25,108 +25,40 @@ As the volume of content in an organisation has proliferated, so the need to man
     <td>&#10060</td>
   </tr>
   <tr>
+    <td><b>Target Market Segment</td>
+    <td>SME</td>
+    <td>SME/Enterprise</td>
+    <td>Enterprise</td>
+    <td>Large Enterprise</td>
+    <td>SME</td>
+    <td>SME/Enterprise</td>
+  </tr> 
+  <tr>
     <td><b>Learning curve</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
-    <td>Steep</td>
+    <td>Easy</td>
+    <td>Intermediate</td>
+    <td>Advanced</td>
+    <td>Intermediate</td>
+    <td>Easy</td>
+    <td>Easy</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
+    <td>$</td>
     <td>$$$</td>
     <td>$$$</td>
-    <td>$$$</td>
-    <td>$$$</td>
-    <td>$$$</td>
+    <td>$$$$</td>
+    <td>$</td>
     <td>$$$</td>
   </tr>
   <tr>
-    <td><b>Operating System</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
+    <td><b>Cloud Hosting</td>
+    <td>Wix</td>
+    <td>Options</td>
+    <td>Paligo </td>
+    <td>Options</td>
+    <td>Options</td>
+    <td>Options</td>
   </tr> 
-  <tr>
-    <td><b>Benefits</td>
-  <td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-       <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-       <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td><b>Drawbacks</td>
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-       <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-  <td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-</tr>
+
 </table>
