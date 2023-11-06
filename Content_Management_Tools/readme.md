@@ -11,7 +11,7 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td><a href="Wix.md"><img src='Wixlogo.png' height='20'></a></td> 
     <td><a href="Drupal.md"><img src='drupal.png' height='30'></a></td> 
     <td><sub><a href="Paligo.md"><img src='paligo-logo-1.png' height='30'></a></sub></td> 
-    <td><a href="MadCap.md"><img src='MadCapFlare-Logo.png' height='35'></a></td> 
+    <td><a href="MadCap.md"><img src='ixia-logo.png' height='35'></a></td> 
     <td><a href="WordPress.md"><img src='WordPress-cropped-logo.png' height='30'></td> 
     <td><a href="Heretto.md"><img src='Heretto-2.png' height='20'></a></td> 
   </th>
@@ -25,108 +25,40 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td>&#10060</td>
   </tr>
   <tr>
+    <td><b>Target Market Segment</td>
+    <td>SME</td>
+    <td>SME/Enterprise</td>
+    <td>Enterprise</td>
+    <td>Large Enterprise</td>
+    <td>SME</td>
+    <td>SME/Enterprise</td>
+  </tr> 
+  <tr>
     <td><b>Learning curve</td>
     <td>Easy</td>
     <td>Intermediate</td>
     <td>Advanced</td>
     <td>Intermediate</td>
     <td>Easy</td>
-    <td>Advanced</td>
+    <td>Easy</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
+    <td>$</td>
     <td>$$$</td>
     <td>$$$</td>
-    <td>$$$</td>
-    <td>$$$</td>
-    <td>$$$</td>
+    <td>$$$$</td>
+    <td>$</td>
     <td>$$$</td>
   </tr>
   <tr>
-    <td><b>Operating System</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
-    <td>Hosted service</td>
+    <td><b>Cloud Hosting</td>
+    <td>Wix</td>
+    <td>Options</td>
+    <td>Paligo </td>
+    <td>Options</td>
+    <td>Options</td>
+    <td>Options</td>
   </tr> 
-  <tr>
-    <td><b>Benefits</td>
-  <td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-       <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-       <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-<td>
-    <ul>
-      <li><b>End-to-end platform</b></li>
-      <li><b>Intuitive UI</b></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td><b>Drawbacks</td>
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-       <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-<td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-  <td>
-    <ul>
-      <li><b>Inconsistent UI</b></li>
-      <li><b>Expensive</b></li>
-    </ul>
-  </td> 
-</tr>
+
 </table>

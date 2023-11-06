@@ -1,3 +1,5 @@
+<a href="readme.md"><- Back</a>
+
  <img src='WordPress-cropped-logo.png' height='70'>
  <table>
   <tr>
@@ -47,4 +49,5 @@
   </td> 
 </tr>
 </table>
+<a href="readme.md"><- Back</a>
 
