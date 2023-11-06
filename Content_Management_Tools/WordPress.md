@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
- <img src='WordPress-cropped-logo.png' height='70'>
+ <a href="https://www.wordpress.com"><img src='WordPress-cropped-logo.png' height='70'></a>
  <table>
   <tr>
     <td><b>Vendor</td>
@@ -20,21 +20,21 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>From free to $1,000+ per month depending on feature package required. <a href="https://www.wordpress.com/pricing">WordPress Pricing</a> </td>
+    <td>From free to $1,000+ per month depending on feature package required. See <a href="https://www.wordpress.com/pricing">WordPress Pricing</a>. </td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Hosted service</td>
+    <td>A number of third-party vendors offer WordPress hosting, or you can manage your own servers. System requirements are available <a href="https://wordpress.org/about/requirements/">here</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Short time to value (TTV)</b><br><i>Theme methodology means a site can be up and running relatively quickly</i></li>
-      <li><b>User friendly</b><br><i>Even beginners can get become productive in a short time</i></li>
-	  <li><b>Scalable</b><br><i>As your organisation grows, WordPress can scale with you</i></li> 
-	  <li><b>Large community of users</b> <br><i>The significant size will ensure long term viability of product and continued development</i></li>
-      <li><b>Extensible functionality</b><br><i>A wide range of plugins gives extended functionality for different use cases</li>
+      <li><b>Short time to value (TTV)</b><br><i>Theme methodology means a site can be up and running relatively quickly.</i></li>
+      <li><b>User friendly</b><br><i>Even beginners can get become productive in a short time.</i></li>
+	  <li><b>Scalable</b><br><i>As your organisation grows, WordPress can scale with you.</i></li> 
+	  <li><b>Large community of users</b> <br><i>The significant size will ensure long term viability of product and continued development.</i></li>
+      <li><b>Extensible functionality</b><br><i>A wide range of plugins gives extended functionality for different use cases.</i></li>
     </ul>
   </td>
 </tr>
@@ -42,9 +42,9 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
-      <li><b>Security risk</b><br><i>Possibly because of its reliance on PHP, WordPress has been subject to a number of vulnerabilities over the years</i></li>
-      <li><b>Plugin issues</b><br><i>WordPress relies on plugins for extended capabilities but the implementation and even the quality of these can be problematic</i></li>
-      <li><b>Performance</b><br><i>Compared to other Content Management Tools, WordPress might not be as performant, especially when mulriple plugins are being used</i></li>
+      <li><b>Security risk</b><br><i>Possibly because of its reliance on PHP, WordPress has been subject to a number of vulnerabilities over the years.</i></li>
+      <li><b>Plugin issues</b><br><i>WordPress relies on plugins for extended capabilities but the implementation and even the quality of these can be problematic.</i></li>
+      <li><b>Performance</b><br><i>Compared to other Content Management Tools, WordPress might not be as performant, especially when mulriple plugins are being used.</i></li>
     </ul>
   </td> 
 </tr>

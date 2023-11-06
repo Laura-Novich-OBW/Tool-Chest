@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
-<img src='Wixlogo.png' height='25'>
+<a href="https://www.wix.com"><img src='Wixlogo.png' height='40'></a>
 <table>
   <tr>
     <td><b>Vendor</td>
@@ -20,11 +20,11 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Wix is freemium software. This means that it is completely free to use, but allows for paid add-ons and programs. Further details can be found <a href="https://support.wix.com/en/article/pricing-plans-an-overview">here</a></td>
+    <td>Wix is freemium software. This means that it is completely free to use, but allows for paid add-ons and programs. Further details can be found <a href="https://support.wix.com/en/article/pricing-plans-an-overview">here</a>.</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Wix is web-based and does not require any specific OS to operate.</td>
+    <td>Wix is web-based and does not require any specific OS to operate. See here for <a href="https://support.wix.com/en/article/supported-browsers">supported browsers</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
@@ -43,7 +43,7 @@
     <ul>
       <li><b>Limited Design Capabilities</b><br><i>Wix is easy to use, but hard to master. Wix is not as flexible as other content management tools.</i></li>
       <li><b>Reliance</b><br><i>Wix pages can only be hosted on and by Wix.</i></li>
-      <li><b>Performance</b><br><i>Compared to other content management tools, Wix might not be as performant, especially when mulriple plugins are being used</i></li>
+      <li><b>Performance</b><br><i>Compared to other content management tools, Wix might not be as performant, especially when mulriple plugins are being used.</i></li>
     </ul>
   </td> 
 </tr>
