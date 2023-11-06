@@ -1,9 +1,11 @@
 <a href="readme.md"><- Back</a>
-<img src"paligo-logo-1.png">
+
+<img src='paligo-logo-1.png' height='60'>
+
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td>Paligo</td>
+    <td><a href="https://www.paligo.net">Paligo</a></td>
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -19,11 +21,11 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>I've read reviews stating it goes from competitive to high pricing. The website gives a few options for packages with  a range of authors, reviewers, and functions. For more information, see https://paligo.net/pricing/. </td>
+    <td>I've read reviews stating it goes from competitive to high pricing. The website gives a few options for packages with  a range of authors, reviewers, and functions. For more information, see <a href="https://paligo.net/pricing/">Paligo pricing</a>. </td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Paligo requires an internet connection and runs on most browsers. For more information, see https://paligo.net/docs/en/system-requirements-and-recommendations.html </td>
+    <td>Paligo requires an internet connection and runs on most browsers. For more information, see <a href="https://paligo.net/docs/en/system-requirements-and-recommendations.html">Paligo system requirements</a> </td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
@@ -47,9 +49,5 @@
     </ul>
   </td> 
 </tr>
-<tr>
-  <td><b>Vendor link</td>
-  <td>https://paligo.net/</td>
-</tr>
 </table>
-
+<a href="readme.md"><- Back</a>
