@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
-<img src='Wixlogo.png' height='40'>
+<a href="https://www.wix.com"><img src='Wixlogo.png' height='40'></a>
 <table>
   <tr>
     <td><b>Vendor</td>
