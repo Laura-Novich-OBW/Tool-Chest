@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Previously called easyDITA, Heretto is a <a href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture">DITA</a>-based CCMS that scales from SME sized organisations to large enterprises.</td>
+    <td>Previously called easyDITA, Heretto is a <a href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture">DITA</a>-based, cloud hosted CCMS that scales from SME sized organisations to large enterprises.</td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Windows, Linux, Mac or Hosted service</td>
+    <td>Cloud hosted service</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
