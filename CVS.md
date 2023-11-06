@@ -10,7 +10,7 @@ Although CVS does have many GUIs (graphic user interfaces) that make it easier t
 ## Cost
 Since CVS is open sourced, it is **100% free**!
 ## Operating Systems
-Although CVS was originally developed on a Unix-based system (and Unix still remains the most reliable and extensible operating system for CVS), it is currently a cross-platform system that also works on Windows,  iOs, and Linux.
+Although CVS was originally developed on a Unix-based system (and Unix still remains the most reliable and extensible operating system for CVS), it is currently a cross-platform system that also works on Windows,  macOs, and Linux.
 ## Advantages
 * **Easy-to-Use**  
   CVS uses a centralized system that records the changes to the project in a single file. This provides a much simpler and more straightforward workflow than in a distributed system (with multiple file versions).
