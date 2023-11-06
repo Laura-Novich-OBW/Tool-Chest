@@ -16,7 +16,7 @@
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>Basic functionality can be picked up within a day or two allowing you to set up a simple web site of a page or two. Obviously the use of plugins and advanced features will take more time and experience.</td>
+    <td>Basic functionality can be picked up within a day or two, allowing you to set up a simple web site of a page or two. Obviously the use of plugins and advanced features will take more time and experience.</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
@@ -31,9 +31,9 @@
   <td>
     <ul>
       <li><b>Short time to value (TTV)</b><br><i>Theme methodology means a site can be up and running relatively quickly.</i></li>
-      <li><b>User friendly</b><br><i>Even beginners can get become productive in a short time.</i></li>
+      <li><b>User friendly</b><br><i>Even beginners can become productive in a short time.</i></li>
 	  <li><b>Scalable</b><br><i>As your organisation grows, WordPress can scale with you.</i></li> 
-	  <li><b>Large community of users</b> <br><i>The significant size will ensure long term viability of product and continued development.</i></li>
+	  <li><b>Large community of users</b> <br><i>The significant size of the vendor will ensure long term viability of the product and continued development.</i></li>
       <li><b>Extensible functionality</b><br><i>A wide range of plugins gives extended functionality for different use cases.</i></li>
     </ul>
   </td>
@@ -44,7 +44,7 @@
     <ul>
       <li><b>Security risk</b><br><i>Possibly because of its reliance on PHP, WordPress has been subject to a number of vulnerabilities over the years.</i></li>
       <li><b>Plugin issues</b><br><i>WordPress relies on plugins for extended capabilities but the implementation and even the quality of these can be problematic.</i></li>
-      <li><b>Performance</b><br><i>Compared to other Content Management Tools, WordPress might not be as performant, especially when mulriple plugins are being used.</i></li>
+      <li><b>Performance</b><br><i>Compared to other Content Management Tools, WordPress might not be as performant, especially when multiple plugins are being used.</i></li>
     </ul>
   </td> 
 </tr>
