@@ -1,12 +1,12 @@
 # MadCap Flare
 
-## Vendor:
+## Vendor
 [MadCap Software](https://www.madcapsoftware.com/)
 
 ## Open Source or Proprietary:
 Proprietary
 
-## Description:  
+## Description  
 
 With regards to being an authoring tool, MadCap Flare is a dynamic and multifaceted software application designed to assist writers in creating, writing and editing content.  It serves as an authoring tool in the following ways:  
 
@@ -27,17 +27,17 @@ The software supports structured writing, enabling writers to break down and rel
   
 * **Output Customization:** With MadCap Flare, writers have the ability to change the output of their content to meet certain requirements (changing layouts, navigation menus) to suit the needs of their target audience.
   
-## Learning Curve:  
+## Learning Curve  
 
 Most reviews seem to indicate that there is a steep learning curve in MadCap Flare. This software has great capabilities, which makes its configuration and use, not intuitive and simple. There is a lot to learn and It can be very overwhelming. It also requires knowledge of HTML and CSS in order to use its functions. Adequate training is a must. MadCap offers a 30 day free trial (obligation free) which is highly recommended for first time users. It also offers interactive eLearning courses, and learning and development programs.
 
-## Cost Rating:  
+## Cost Rating  
 
 MadCap Flare prices at $182 per month/per user, billed annually. This is a total of $2 180.00. The price will increase to $2 333.00 on 1 January 2024.
 MadCap Flare is considered a top multi-channel authoring tool, but it is quite expensive. If you know that you will have enough clients/projects to make it worthwhile purchasing, then it will be a good investment.  It has numerous free, built-in web features which other authoring tools charge an exorbitant subscription for—so if your company or the company you work for as a technical writer is planning on doing more than just basic print to pdf then it will be a lot more viable/cheaper to purchase a license. 
 It is important to remember that MadCap Flare may be more expensive than other authoring tools, because it is a professional tool designed for complex documentation projects.
 
-## MadCap Flare Benefits:  
+## MadCap Flare Benefits  
 
 * **Single-Sourcing:**   This powerful feature allows users to reuse content, and produce multiple outputs from the same set of source files.
 * **Topic-based Authoring:** This feature further maximizes the reuse of content.  It allows for information to be sorted into small manageable, self-contained topics or individual pieces of content, each dealing with a particular subject or concept. These “topics” can then be combined or reused to create various documentation, manuals or guides.
@@ -55,7 +55,7 @@ It is important to remember that MadCap Flare may be more expensive than other a
 * **HTML5 and CSS3 Support:** MadCap Flare supports these two coding languages thus giving technical writers the freedom to create complex web-based projects.
 * **Responsive Layout:** The responsive editor allows users to manage the content layout on desktop, mobile and tablet, without any prior coding knowledge.
 
-## MadCap Flare Disadvantages:
+## MadCap Flare Disadvantages
 
 * **Limited Search Feature:** This particular feature may:
     * be slow, particularly when search large volumes of content;
@@ -67,5 +67,5 @@ It is important to remember that MadCap Flare may be more expensive than other a
 
 * **Instability:** MadCap Flare can be unstable. Users have reported it crashing often, displaying “buggy” behavior, and freezing when syncing.
   
-## OS Requirement:  
+## OS Requirement  
 MadCap Flare will run on Windows based operating systems only.
