@@ -18,7 +18,7 @@ It's free, but there are extra features you can pay for.
 ## Required OS
 It works on any OS, but it's more stable and secure with Linux.
 
-## Benefits
+## Advantages
 - Many different features all in one place (source code management, issue tracking, continuous integration, and code review)
 - Works for small and big collaborations
 - Extensive documentation and support
