@@ -21,7 +21,7 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Free trial available but otherwise $150 U+2013 $250 per month depending on version. Enterprise licence available subject to negotiation.</td>
+    <td>Free trial available but otherwise $150&ndash;$250 per month depending on version. Enterprise licence available subject to negotiation.</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
