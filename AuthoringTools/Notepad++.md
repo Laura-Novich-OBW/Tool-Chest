@@ -1,4 +1,6 @@
 # Notepad ++  
+<img src="notepad++logo.png" width="200" height="125">
+
 
 ## Vendor      
 [Notepad++](https://notepad-plus-plus.org/)  
