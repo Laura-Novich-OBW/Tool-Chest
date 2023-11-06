@@ -31,11 +31,11 @@
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Easy to use</b><br><i>Intuitive interface allows authors and reviewers to get started quickly</i></li>
-      <li><b>Good support </b><br><i>Large collection of self-help resources and friendly and available customer service helps to learn the product independently or through representatives </i></li>
+      <li><b>Easy to use</b><br><i>Intuitive interface allows authors and reviewers to get started quickly.</i></li>
+      <li><b>Good support </b><br><i>Large collection of self-help resources and friendly and available customer service helps to learn the product independently or through representatives. </i></li>
 	  <li><b>Scalable</b><br><i>Variety of options allow increased users and functionality.</i></li> 
-	  <li><b>Versioning and branching</b> <br><i>Easy to develop and track changes to documentation</i></li>
-      <li><b>Multi-channel publishing</b><br><i>Wide range of settings and integrations allows for a variety of documentation outputs</li>
+	  <li><b>Versioning and branching</b> <br><i>Easy to develop and track changes to documentation.</i></li>
+      <li><b>Multi-channel publishing</b><br><i>Wide range of settings and integrations allows for a variety of documentation outputs.</li>
     </ul>
   </td>
 </tr>
@@ -43,9 +43,9 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
-      <li><b>Dependence on the internet</b><br><i>Limits work time to times when internet access is available, and can affect performance</i></li>
-      <li><b>Limited access</b><br><i>Basic plans can be expensive to add users, and there are limited types of user options</i></li>
-      <li><b>Migration difficulties</b><br><i>A number of reviewers described difficulties transferring content from different sources including in the case of content migrations </i></li>
+      <li><b>Dependence on the internet</b><br><i>Limits work time to times when internet access is available, and can affect performance.</i></li>
+      <li><b>Limited access</b><br><i>Basic plans can be expensive to add users, and there are limited types of user options.</i></li>
+      <li><b>Migration difficulties</b><br><i>A number of reviewers described difficulties transferring content from different sources including in the case of content migrations. </i></li>
     </ul>
   </td> 
 </tr>
