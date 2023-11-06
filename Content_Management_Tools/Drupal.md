@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
-<sub><img src='drupal.png' height='50'></sub>
+<a href="https://www.drupal.org"><img src='drupal.png' height='50'></a>
 <table>
   <tr>
     <td><b>Vendor</td>
