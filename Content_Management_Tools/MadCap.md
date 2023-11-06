@@ -42,7 +42,7 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
-      <li><b>Steep learning curve</b><br><i>Created for large enterprise projects the interface can be overwhelming to some. </i></li>
+      <li><b>Steep learning curve</b><br><i>The interface can be overwhelming to some. </i></li>
       <li><b>High cost</b><br><i>Created for medium to enterprise sized clients, packages start on the higher price range. </i></li>
     </ul>
   </td> 
