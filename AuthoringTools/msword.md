@@ -1,4 +1,5 @@
-# Microsoft Word
+# Microsoft Word  
+<img src="wordlogo.png" width="100" height="100">
 
 ## Vendor
 [Microsoft Corporation](https://www.microsoft.com/en-in)
