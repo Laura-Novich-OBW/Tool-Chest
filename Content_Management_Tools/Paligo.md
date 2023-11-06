@@ -1,4 +1,5 @@
-# Paligo
+<a href="readme.md"><- Back</a>
+<img src"paligo-logo-1.png">
 <table>
   <tr>
     <td><b>Vendor</td>
