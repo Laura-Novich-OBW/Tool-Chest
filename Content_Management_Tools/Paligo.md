@@ -21,11 +21,11 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>I've read reviews stating it goes from competitive to high pricing. The website gives a few options for packages with  a range of authors, reviewers, and functions. For more information, see <a href="https://paligo.net/pricing/">Paligo pricing</a>. </td>
+    <td>The website gives a few options for packages with  a range of authors, reviewers, and functions. For more information, see <a href="https://paligo.net/pricing/">Paligo pricing</a>. </td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Paligo requires an internet connection and runs on most browsers. For more information, see <a href="https://paligo.net/docs/en/system-requirements-and-recommendations.html">Paligo system requirements</a> </td>
+    <td>Paligo requires an internet connection and runs on most browsers. For more information, see <a href="https://paligo.net/docs/en/system-requirements-and-recommendations.html">Paligo system requirements</a>. </td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
