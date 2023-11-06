@@ -6,4 +6,7 @@ For the 2023 Technical Communications GitHub project we created content about to
 * [Authoring](authoring-tools/readme.md)
 * [Publishing](publishing-tools/readme.md)
 * [Repository](repository-tools/readme.md)
-* more
+* [Content Management](content-management/readme.md)
+
+
+  
