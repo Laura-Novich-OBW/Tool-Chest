@@ -8,7 +8,7 @@ As the volume of content in  organisations has proliferated, so the need to mana
 ## Content Management Tools Comparative Matrix
 <table>
   <th>
-    <td><a href="Wix.md"><img src='Wixlogo.png' height='20'></a></td> 
+    <td><a href="Wix.md"><img src='Wixlogo.png' height='25' width='70'></a></td> 
     <td><a href="Drupal.md"><img src='drupal.png' height='30'></a></td> 
     <td><sub><a href="Paligo.md"><img src='paligo-logo-1.png' height='30'></a></sub></td> 
     <td><a href="MadCap.md"><img src='ixia-logo.png' height='35'></a></td> 
@@ -25,7 +25,7 @@ As the volume of content in  organisations has proliferated, so the need to mana
     <td>&#10060</td>
   </tr>
   <tr>
-    <td><b>Target Market Segment</td>
+    <td><b>Market Segment</td>
     <td>SME</td>
     <td>SME/Enterprise</td>
     <td>Enterprise</td>
