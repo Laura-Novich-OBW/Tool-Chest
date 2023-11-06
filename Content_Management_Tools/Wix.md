@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
-<img src='Wixlogo.png' height='25'>
+<img src='Wixlogo.png' height='40'>
 <table>
   <tr>
     <td><b>Vendor</td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Wix is web-based and does not require any specific OS to operate.</td>
+    <td>Wix is web-based and does not require any specific OS to operate. See here for <a href="https://support.wix.com/en/article/supported-browsers">supported browsers</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
