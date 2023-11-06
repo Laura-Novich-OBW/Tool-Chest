@@ -5,10 +5,10 @@ These tools offer the technical writer a range of functions, features and capabi
 Authoring tools, typically enable writers to compose, edit, format and style their documentation content using features that include font styles, headings, lists, tables, inserting diagrams, and managing text styles.  
 
 We are going to take a closer look at the following authoring tools:
-* Notepad ++
-* Paligo
-* MS Word
-* MadCap Flare
+* [Notepad ++](AuthoringTools/Notepad++.md)
+* [Paligo](AuthoringTools/Paligo.md)
+* [MS Word](AuthoringTools/msword.md)
+* [MadCap Flare](AuthoringTools/madcap-flare.md)
   
 Contributions for Notepad++ and Paligo were made by D'vorah Sorrels. [Wix Profile](https://debben2018.wixsite.com/obw-presentation)
 
