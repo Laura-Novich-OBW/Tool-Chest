@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
-<sub><img src='drupal.png' height='50'></sub>
+<a href="https://www.drupal.org"><img src='drupal.png' height='50'></a>
 <table>
   <tr>
     <td><b>Vendor</td>
@@ -20,11 +20,11 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Drupal is free and open source.</td>
+    <td>Drupal is open source and therefore free to use.</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Drupal is web-based and does not require any specific OS to operate.</td>
+    <td>A number of third-party vendors offer Drupal hosting, or you can manage your own servers. System requirements are available <a href="https://www.drupal.org/docs/getting-started/system-requirements/overview">here</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
