@@ -1,4 +1,5 @@
-# MadCap Flare
+# MadCap Flare  
+<img src="madcapflaresmall.png" width="200" height="65">
 
 ## Vendor
 [MadCap Software](https://www.madcapsoftware.com/)
