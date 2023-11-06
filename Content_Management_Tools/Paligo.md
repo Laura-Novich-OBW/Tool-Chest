@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
-<img src='paligo-logo-1.png' height='60'>
+<a href="https://www.paligo.net"><img src='paligo-logo-1.png' height='60'></a>
 
 <table>
   <tr>
