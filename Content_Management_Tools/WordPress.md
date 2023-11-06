@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Hosted service</td>
+    <td>A number of third-party vendors offer WordPress hosting, or you can manage your own servers. System requirements are available <a href="https://wordpress.org/about/requirements/">here</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
