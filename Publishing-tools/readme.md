@@ -2,7 +2,7 @@
 This is a set of tools for web publishing and managing web content. They are all free; most of them are also open-source.
 |  | **Vendor** | **Open Source or Proprietary** | **Difficulty to Learn (1-5)** | **Cost** | **OS Requirements** | **Vendor Link** |
 |---|---|---|:---:|---|---|---|
-| [WordPress](WordPress.md) | WordPress Foundation | Open-source | 3 | Free | Unix-like, Linux, Windows | [wordpress.org](wordpress.org) |
+|<img src="WordPress-Logo-2008-present.jpg" alt="WordPress" width="200"/> [WordPress](WordPress.md) | WordPress Foundation | Open-source | 3 | Free | Unix-like, Linux, Windows | [wordpress.org](wordpress.org) |
 | [Hugo](Hugo.md) | Community (team of volunteers) | Open-source | 2 | Free | Windows, macOS, and Linux | [GoHugo.io](GoHugo.io) |
 | [Sphinx](Sphinx.md) | Georg Brandl | Open-source | 4 | Free | Windows, macOS, and Linux | [sphinx-doc.org](www.sphinx-doc.org) |
 | [Github Pages](Github_Pages.md) | GitHub (owned by Microsoft) | Proprietary | 3 | Free | Any (accessed in browser) | [pages.github.com](pages.github.com) |
