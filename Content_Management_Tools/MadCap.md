@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><b>Vendor</td>
-    <td> [Madcap Software](https://www.madcapsoftware.com/)</td>
+    <td> <a href="https://www.madcapsoftware.com">MadCap Software</a></td>
   </tr>
   <tr>
     <td><b>Open Source?</td>
@@ -19,11 +19,11 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>The MadCap IXIA CCMS billing details are not given by MadCap Software, but previous records show prices ranging from $3,850 to $21,585 for starter to enterprise users. For more information,  see https://www.madcapsoftware.com/pricing/</td>
+    <td>The MadCap IXIA CCMS billing details are not given by MadCap Software, but previous records show prices ranging from $3,850 to $21,585 for starter to enterprise users. For more information,  see <a href="https://www.madcapsoftware.com/pricing/"> MadCap pricing</a></td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>MadCap IXIA CCMS is available on Windows, Linux, and Mac based operating systems. For more information, see https://www.ixiasoft.com/learning-support/documentation/version/5-0/system-requirements/</td>
+    <td>MadCap IXIA CCMS is available on Windows, Linux, and Mac based operating systems. For more information, see <a href="https://www.ixiasoft.com/learning-support/documentation/version/5-0/system-requirements/">MadCap system requirements</a></td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
