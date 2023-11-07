@@ -36,7 +36,7 @@ GitHub follows a 3-tiered pricing model that provides you and your team with the
   * 50GB of Packages storage (Free for public repositories)
   * Exclusive Add-ons
   * Premium support
-## Operating Systems
+## Required OS
 GitHub works on most major operating systems, such as: Windows, macOS, and Linux.
 ## Advantages
 * **Easy Collaboration**  
