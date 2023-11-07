@@ -10,7 +10,7 @@ Here is a table comparing four of the most popular repository tools.
 |-------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | Difficulty to learn from 1-10<br>(1 being easy and 10 being hard) | 6                         | 2                         | 4                         | 4                         |
 | Cost                                                              | Free (with premium plans available)                         | 6                         | Free, open source                       | 8                         |
-| OS                                                        | Windows, macOS, Linux                         | b                         | Unix, Windows, macOS, Linux                         | d                         |
+| Operating Systems                                                       | Windows, macOS, Linux                         | b                         | Unix, Windows, macOS, Linux                         | d                         |
 | Advantages                                                        | &bull; Easy Collaboration<br> &bull; Version Control<br> &bull; Great Documentation | &bull; one<br> &bull; two | &bull; Easy-to-Use<br> &bull; Binary Files Capabilities<br> &bull; Reliability | &bull; one<br> &bull; two |
 | Disadvantages                                                     | &bull; Difficult for Beginners<br> &bull; Security<br> &bull; Pricing | &bull; one<br> &bull; two | &bull; Connectivity<br> &bull; Slow Performance<br> &bull; Outdated Technology | &bull; one<br> &bull; two |
 ## More Info
