@@ -52,5 +52,5 @@ GitHub works on most major operating systems, such as: Windows, macOS, and Linux
   Since GitHub is cloud-based, even its private repositories are vulnerable to third-party attacks. That is why some employers only allow work to be done on a secure internal Git. 
 * **Pricing**  
  Some of Git's features are locked behind an SaaS paywall. If you have a large team, the price of using the repository with these features can add up fast.
-## Link
+## Link to Vendor
 https://github.com
