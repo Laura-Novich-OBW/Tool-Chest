@@ -44,13 +44,13 @@ GitHub works on various operating systems, including: Windows, macOS, and Linux.
 * **Version Control**  
   GitHub allows users to keep track of changes to their work over time and makes it easy to revert to previous versions if necessary. This allows you to write many draft versions of your work, without worrying about losing the changes.
 * **Great Documentation**  
-  The GitHub website has some of the best documentation around that can help you with anything git-related without needing to look anywhere else.
+  The GitHub website has clear, comprehensive documentation that can help you with anything git-related without the need to look anywhere else.
 ## Disadvantages
 * **Difficult for Beginners**  
    GitHub can have a steep learning curve to its unintuitive commands, inconsistent commands, and arguments in the software.
 * **Security**  
   Since GitHub is cloud-based, even its private repositories are vulnerable to third-party attacks. That is why some employers only allow work to be done on a secure internal Git. 
 * **Pricing**  
- Some of Git's features are locked behind an SaaS paywall. If you have a large team, the price of using repository with these features can add up fast.
+ Some of Git's features are locked behind an SaaS paywall. If you have a large team, the price of using the repository with these features can add up fast.
 ## Link
 https://github.com
