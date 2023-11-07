@@ -13,6 +13,7 @@ We are going to take a closer look at the following authoring tools:
 Contributions for Notepad++ and Paligo were made by D'vorah Sorrels. [Wix Profile](https://debben2018.wixsite.com/obw-presentation)
 
 Contributions for MS Word and Flare were made by Natanya Da Costa. [Wix Profile](https://enatanyadc.wixsite.com/natanya)  
+## Authoring Tool Comparisons
 <table border="20" width="100">
 <tr>
 <td><strong>Tool</strong></td>
