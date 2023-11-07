@@ -1,4 +1,4 @@
-# Paligo  
+# Paligo  :star_of_david:
 <img src="paligologo.png" width="200" height="65">
 
 ## `Vendor`    
