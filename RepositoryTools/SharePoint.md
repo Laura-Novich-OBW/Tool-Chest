@@ -33,4 +33,4 @@ The cloud-based version (SharePoint Online) can be accessed using a web browser 
 - Only one person can edit at a time
 
 ## Link to Vendor
-[SharePoint's site](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
+[SharePoint site](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
