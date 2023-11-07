@@ -1,6 +1,6 @@
 <a href="readme.md"><- Back</a>
 
-<sub><img src='drupal.png' height='50'></sub>
+<a href="https://www.drupal.org"><img src='drupal.png' height='50'></a>
 <table>
   <tr>
     <td><b>Vendor</td>
@@ -20,18 +20,18 @@
   </tr> 
   <tr>
     <td><b>Cost</td>
-    <td>Drupal is free and open source.</td>
+    <td>Drupal is open source and therefore free to use.</td>
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Drupal is web-based and does not require any specific OS to operate.</td>
+    <td>A number of third-party vendors offer Drupal hosting, or you can manage your own servers. System requirements are available <a href="https://www.drupal.org/docs/getting-started/system-requirements/overview">here</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
   <td>
     <ul>
-      <li><b>Easy to Customize(TTV)</b><br><i>Easy to customize.</i></li>
-      <li><b>Support</b><br><i>Large Developer community to help and support the userbase.</i></li>
+      <li><b>Easy to customize (TTV)</b><br><i>Easy to customize.</i></li>
+      <li><b>Support</b><br><i>Large developer community to help and support the userbase.</i></li>
 	  <li><b>Scalability</b><br><i>Suitable for complex and scalable websites.</i></li> 
     </ul>
   </td>
@@ -41,8 +41,8 @@
   <td>
     <ul>
       <li><b>Difficulty</b><br><i>Steeper learning curve for beginners. </i></li>
-      <li><b>Knowledge Apriori</b><br><i>Requires technical expertise for complex setups.</i></li>
-      <li><b>Third Party Dependence</b><br><i>May need third-party extensions for specific functionalities.</i></li>
+      <li><b>Knowledge apriori</b><br><i>Requires technical expertise for complex setups.</i></li>
+      <li><b>Third party dependence</b><br><i>May need third-party extensions for specific functionalities.</i></li>
     </ul>
   </td> 
 </tr>

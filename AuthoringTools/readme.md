@@ -13,14 +13,15 @@ We are going to take a closer look at the following authoring tools:
 Contributions for Notepad++ and Paligo were made by D'vorah Sorrels. [Wix Profile](https://debben2018.wixsite.com/obw-presentation)
 
 Contributions for MS Word and Flare were made by Natanya Da Costa. [Wix Profile](https://enatanyadc.wixsite.com/natanya)  
+## Authoring Tool Comparisons
 <table border="20" width="100">
 <tr>
-<td>Tool</strong></td>
-  <td>Link</strong></td>
-  <td>Open-Source or Proprietary</strong></td>
-  <td>Description</strong></td>
-  <td>Learning Curve</strong></td>
-  <td>OS System</strong></td>
+<td><strong>Tool</strong></td>
+  <td><strong>Link</strong></td>
+  <td><strong>Open-Source or Proprietary</strong></td>
+  <td><strong>Description</strong></td>
+  <td><strong>Learning Curve</strong></td>
+  <td><strong>OS System</strong></td>
   
 </tr>
 <tr>
@@ -28,14 +29,17 @@ Contributions for MS Word and Flare were made by Natanya Da Costa. [Wix Profile]
   <td><a href="https://notepad-plus-plus.org/"> Notepad++</a></td>
   <td>Open-Source</td>
   <td>Code and text editor</td>
+  <td>Easy to moderate</td>
+  <td>Windows</td>
   
 </tr>
 <tr>
 <td>Paligo</td>
   <td><a href="https://paligo.net/"> Paligo</a></td>
   <td>Proprietary</td>
-  <td>A cloud-based Component Content Management System (CCMS)</td>
-  <td>All major operating systems.</td>
+  <td>Cloud-based Component Content Management System (CCMS)</td>
+   <td>Easy</td>
+  <td>All major operating systems</td>
   
 </tr>
 <tr>
@@ -53,7 +57,7 @@ Contributions for MS Word and Flare were made by Natanya Da Costa. [Wix Profile]
   <td>Proprietary</td>
   <td> Word processor 
 </td>
-  <td>Easy to moderate.</td>
+  <td>Easy to moderate</td>
   <td>Windows</td>
   
 </tr>

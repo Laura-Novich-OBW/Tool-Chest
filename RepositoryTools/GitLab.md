@@ -1,31 +1,38 @@
 # GitLab
 
-## Here is information about the repository tool GitLab.
-
-- __Vendor__  
+## Vendor
 GitLab Inc.
 
-- __Open source or proprietary__  
+## Open Source or Proprietary
 Open source
 
-- __Description__  
-GitLab is a web-based Git repository tool that provides version-controlling and collaboration tools in a single platform. 
+## Description
+GitLab is an all-in-one, web-based Git repository tool that has many features, including code review, issue tracking, version-controlling, and collaboration tools. 
 
-- __Difficulty to learn (on a scale of 1-10, 1 being easy and 10 being hard)__  
-4
+## Learning Curve
+There's a somewhat steep learning curve at first, but it gets easier over time. Some people say the huge number of potential features makes it a bit trickier to learn, but once you know how to do what you want, it's not so bad.
 
-- __Cost__  
-Free, but there are extra features you can pay for
+## Cost
+It's free, but there are extra features you can pay for.
 
-- __Required OS__  
-Linux only, but you can use GitLab Runner for Windows or Mac.
-However, this seems a bit clunkier.
+## Required OS
+It works on any OS, but it's more stable and secure with Linux.
 
-- __Benefits__  
-asdf
+## Advantages
+- Many different features all in one place (source code management, issue tracking, continuous integration, and code review)
+- Works for small and big collaborations
+- Extensive documentation and support
+- Supports integrating third-party tools to improve workflow
+- Both cloud-based hosting and self-hosting options
 
-- __Disadvantages__  
-asdf
+## Disadvantages
+- Somewhat steep learning curve
+- Difficult to run self-hosted version
+  - Potentially requires a lot of server space
+  - Very time-consuming to keep it secure and updated properly
+- Third-party integrations can be very difficult, especially if it's a less common tool.
+- Most features aren't available in the free version.
+- Can get expensive (up to $100/month)
 
-- __Link to vendor__  
+## Link to Vendor
 [GitLab's site](https://about.gitlab.com/)
