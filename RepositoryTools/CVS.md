@@ -1,7 +1,7 @@
 # CVS (Concurrent Versions System)
 ## Developer
 Dick Grune
-## Product Type
+## Proprietary or Open Source
 Open Source
 ## Description
 CVS is a revision control system that improved upon the earlier RCS (revision control system) by operating as a client-server model (which allows multiple developers to work on a single file simultaneously) and adding support for repository-level change tracking (which allows project managers to better track progress).
