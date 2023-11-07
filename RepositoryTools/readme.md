@@ -8,11 +8,11 @@ Here is a table comparing four of the most popular repository tools.
 
 |                                                                   | GitHub                    | GitLab                    | CVS                       | SharePoint                |
 |-------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| Difficulty to learn from 1-10<br>(1 being easy and 10 being hard) | 5                         | 6                         | 4                         | 2                         |
-| Cost                                                              | Free (with premium plans available)                         | Free (with premium plans available)                         | Free, open source                       | $6/month to $22/month                         |
-| Operating Systems                                                       | Most major operating systems                        | **Works Best on:** Linux<br>**Also Works on:** Most major operating systems                        | **Works Best on:** Unix<br>**Also Works on:** Most major operating systems                        | **On-Premises:** Windows OS<br> **Cloud:** All major operating systems                        |
-| Advantages                                                        | &bull; Easy Collaboration<br> &bull; Version Control<br> &bull; Great Documentation | &bull; one<br> &bull; two | &bull; Easy-to-Use<br> &bull; Binary Files Capabilities<br> &bull; Reliability | &bull; one<br> &bull; two |
-| Disadvantages                                                     | &bull; Difficult for Beginners<br> &bull; Security<br> &bull; Pricing | &bull; one<br> &bull; two | &bull; Connectivity<br> &bull; Slow Performance<br> &bull; Outdated Technology | &bull; one<br> &bull; two |
+| **Difficulty to Learn** <br>(from 1-10, 1 being easy and 10 being hard)| 5                         | 6                         | 4                         | 2                         |
+| **Cost**                                                              | Free (with premium plans available)                         | Free (with premium plans available)                         | Free, open source                       | $6/month to $22/month                         |
+| **Operating Systems**                                                       | Most major operating systems                        | **Works Best on:** Linux<br>**Also Works on:** Most major operating systems                        | **Works Best on:** Unix<br>**Also Works on:** Most major operating systems                        | **On-Premises:** Windows OS<br> **Cloud:** All major operating systems                        |
+| **Advantages**                                                        | &bull; Easy Collaboration<br> &bull; Version Control<br> &bull; Great Documentation | &bull; Many Features<br> &bull; For Big and Small Projects<br> &bull; Cloud and Self-Hosting Options | &bull; Easy-to-Use<br> &bull; Binary Files Capabilities<br> &bull; Reliability | &bull; Microsoft Integration<br> &bull; Powerful Search <br> &bull; Strong Security|
+| **Disadvantages**                                                     | &bull; Difficult for Beginners<br> &bull; Security Gaps<br> &bull; Pricing Model| &bull; Difficult Tool Integration<br> &bull; Limited Free Version<br> &bull; Complex Installation| &bull; Requires Connectivity<br> &bull; Slow Performance<br> &bull; Outdated Technology | &bull; No Free Option <br> &bull; Less Compatible with Code <br> &bull; Single-User Editing |
 ## More Info
 Want more info? Here are links to more detailed explanations for each tool:
 - [GitHub](./GitHub.md)
@@ -21,4 +21,4 @@ Want more info? Here are links to more detailed explanations for each tool:
 - [SharePoint](./SharePoint.md)
 ## Authors
 [Yossi Myhill](www.linkedin.com/in/yossi-myhill-320027163) - **GitHub, CVS**  
-[Jacob Sacks]() - **GitLab, SharePoint**
+[Jacob Sacks](https://sacksjacob.wixsite.com/home) - **GitLab, SharePoint**
