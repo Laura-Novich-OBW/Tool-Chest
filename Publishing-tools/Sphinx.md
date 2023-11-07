@@ -32,4 +32,4 @@ choice for software projects and technical documentation.
 - Setup Complexity: The initial setup can be challenging for those new to the tool.
   
 ### Vendor Link: 
-[Sphinx](www.sphinx-doc.org)
+www.sphinx-doc.org
