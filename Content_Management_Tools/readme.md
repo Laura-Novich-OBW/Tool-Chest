@@ -6,6 +6,7 @@ As the volume of content in  organisations has proliferated, so the need to mana
 ##
 
 ## Content Management Tools Comparative Matrix
+Select a logo for a more in-depth review.
 <table>
   <th>
     <td><a href="Wix.md"><img src='Wixlogo.png' height='25' width='70'></a></td> 
