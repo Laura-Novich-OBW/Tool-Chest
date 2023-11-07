@@ -20,5 +20,5 @@ Want more info? Here are links to more detailed explanations for each tool:
 - [CVS](./CVS.md)
 - [SharePoint](./SharePoint.md)
 ## Authors
-[Yossi Myhill](www.linkedin.com/in/yossi-myhill-320027163) - **GitHub, CVS**
+[Yossi Myhill](www.linkedin.com/in/yossi-myhill-320027163) - **GitHub, CVS**  
 [Jacob Sacks]() - **GitLab, SharePoint**
