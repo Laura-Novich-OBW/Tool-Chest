@@ -8,7 +8,7 @@ Here is a table comparing four of the most popular repository tools.
 
 |                                                                   | GitHub                    | GitLab                    | CVS                       | SharePoint                |
 |-------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| Difficulty to learn from 1-10<br>(1 being easy and 10 being hard) | 6                         | 2                         | 4                         | 4                         |
+| Difficulty to learn from 1-10<br>(1 being easy and 10 being hard) | 5                         | 6                         | 4                         | 4                         |
 | Cost                                                              | Free (with premium plans available)                         | 6                         | Free, open source                       | 8                         |
 | Operating Systems                                                       | Windows, macOS, Linux                         | b                         | Unix, Windows, macOS, Linux                         | d                         |
 | Advantages                                                        | &bull; Easy Collaboration<br> &bull; Version Control<br> &bull; Great Documentation | &bull; one<br> &bull; two | &bull; Easy-to-Use<br> &bull; Binary Files Capabilities<br> &bull; Reliability | &bull; one<br> &bull; two |
