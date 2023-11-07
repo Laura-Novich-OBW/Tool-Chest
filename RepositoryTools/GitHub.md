@@ -37,7 +37,7 @@ GitHub follows a 3-tiered pricing model that provides you and your team with the
   * Exclusive Add-ons
   * Premium support
 ## Operating Systems
-GitHub works on various operating systems, including: Windows, macOS, and Linux.
+GitHub works on most major operating systems, such as: Windows, macOS, and Linux.
 ## Advantages
 * **Easy Collaboration**  
   GitHub uses a distributed system that lets each collaborator work on a separate branch and later merge the branch to the central repository. This makes it easy for team members from around the world to work on a project.
