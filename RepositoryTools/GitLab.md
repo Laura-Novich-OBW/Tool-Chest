@@ -35,4 +35,4 @@ It works on any OS, but it's more stable and secure with Linux.
 - Can get expensive (up to $100/month)
 
 ## Link to Vendor
-[GitLab's site](https://about.gitlab.com/)
+[GitLab site](https://about.gitlab.com/)
