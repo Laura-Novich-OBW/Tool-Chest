@@ -8,14 +8,16 @@ Here is a table comparing four of the most popular repository tools.
 
 |                                                                   | GitHub                    | GitLab                    | CVS                       | SharePoint                |
 |-------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| Difficulty to learn from 1-10<br>(1 being easy and 10 being hard) | 1                         | 2                         | 3                         | 4                         |
-| Cost                                                              | 5                         | 6                         | 7                         | 8                         |
-| OS required                                                       | a                         | b                         | c                         | d                         |
-| Advantages                                                        | &bull; one<br> &bull; two | &bull; one<br> &bull; two | &bull; one<br> &bull; two | &bull; one<br> &bull; two |
-| Disadvantages                                                     | &bull; one<br> &bull; two | &bull; one<br> &bull; two | &bull; one<br> &bull; two | &bull; one<br> &bull; two |
-
+| Difficulty to learn from 1-10<br>(1 being easy and 10 being hard) | 6                         | 2                         | 4                         | 4                         |
+| Cost                                                              | Free (with premium plans available)                         | 6                         | Free, open source                       | 8                         |
+| OS                                                        | Windows, macOS, Linux                         | b                         | Unix, Windows, macOS, Linux                         | d                         |
+| Advantages                                                        | &bull; Easy Collaboration<br> &bull; Version Control<br> &bull; Great Documentation | &bull; one<br> &bull; two | &bull; Easy-to-Use<br> &bull; Binary Files Capabilities<br> &bull; Reliability | &bull; one<br> &bull; two |
+| Disadvantages                                                     | &bull; Difficult for Beginners<br> &bull; Security<br> &bull; Pricing | &bull; one<br> &bull; two | &bull; Connectivity<br> &bull; Slow Performance<br> &bull; Outdated Technology | &bull; one<br> &bull; two |
+## More Info
 Want more info? Here are links to more detailed explanations for each tool:
 - [GitHub](./GitHub.md)
 - [GitLab](./GitLab.md)
 - [CVS](./CVS.md)
 - [SharePoint](./SharePoint.md)
+## Authors
+[Yossi Myhill](www.linkedin.com/in/yossi-myhill-320027163)-**GitHub, CVS**
