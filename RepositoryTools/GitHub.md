@@ -4,7 +4,7 @@ Microsoft
 ## Open Source or Proprietary
 Proprietary
 ## Description
-GitHub is a platform and cloud-based service for software development and version control that uses Git. It follows a distributed version control model and provides access control, task management, bug tracking, and much more for every project.
+GitHub is a cloud-based platform and service for software development and version control that uses Git. It follows a distributed version control model and provides access control, task management, bug tracking, and much more for every project.
 ## Learning Curve
 One method of using GitHub is through GitHub's GUI (graphic user interface). You can learn how to use it by taking GitHub's interactive courses that walk you through all the basics. Some commands in GitHub are a bit counter-intuitive, so it may take time getting used to.    
 
@@ -19,10 +19,10 @@ GitHub works on most major operating systems, such as: Windows, macOS, and Linux
 * **Version Control**  
   GitHub allows users to keep track of changes to their work over time and makes it easy to revert to previous versions if necessary. This allows you to write many draft versions of your work, without worrying about losing the changes.
 * **Great Documentation**  
-  The GitHub website has clear, comprehensive documentation that can help you with anything git-related without the need to look anywhere else.
+  The GitHub website has clear, comprehensive documentation that can help you with anything git-related without needing to look anywhere else.
 ## Disadvantages
 * **Difficult for Beginners**  
-   GitHub can have a steep learning curve to its unintuitive commands, inconsistent commands, and arguments in the software.
+   GitHub can have a steep learning curve due to its unintuitive commands, inconsistencies, and arguments in the software.
 * **Security**  
   Since GitHub is cloud-based, even its private repositories are vulnerable to third-party attacks. That is why some employers only allow work to be done on a secure internal Git. 
 * **Pricing**  
