@@ -1,7 +1,7 @@
 # GitHub
 ## Vendor
 Microsoft
-## Proprietary or Open Source
+## Open Source or Proprietary
 Proprietary
 ## Description
 GitHub is a platform and cloud-based service for software development and version control that uses Git. It follows a distributed version control model and provides access control, task management, bug tracking, and much more for every project.
