@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><b>Open Source?</td>
-    <td>No - Proprietary</td>
+    <td>No</td>
   </tr>
   <tr>
     <td><b>Description</td>
