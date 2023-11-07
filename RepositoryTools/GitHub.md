@@ -28,4 +28,4 @@ GitHub works on most major operating systems, such as: Windows, macOS, and Linux
 * **Pricing**  
  Some of Git's features are locked behind an SaaS paywall. If you have a large team, the price of using the repository with these features can add up fast.
 ## Link to Vendor
-https://github.com
+[GitHub Site](https://github.com)
