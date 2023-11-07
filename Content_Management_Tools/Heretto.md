@@ -42,7 +42,7 @@
   <td>
     <ul>
       <li><b>Technically oriented</b><br><i>Non-technical users will find the user interface challenging at first.</i></li>
-      <li><b>Inconsistent UI</b><br><i>User interface is not always consitent in the placing of common buttons and controls.</i></li>
+      <li><b>Inconsistent UI</b><br><i>User interface is not always consistent in the placing of common buttons and controls.</i></li>
       <li><b>Expensive</b><br><i>Smaller businesses may find the pricing model prohibitive.</i></li>
     </ul>
   </td> 
