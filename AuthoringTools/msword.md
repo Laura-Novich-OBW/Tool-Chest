@@ -1,4 +1,4 @@
-# Microsoft Word  
+# Microsoft Word  :star_of_david:
 <img src="wordlogo.png" width="100" height="100">
 
 ## `Vendor`
