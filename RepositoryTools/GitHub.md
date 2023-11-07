@@ -10,32 +10,7 @@ One method of using GitHub is through GitHub's GUI (graphic user interface). You
 
 Another method of using GitHub is on a CLI (command line interface). This has a steeper learning curve than the GUI and is not as intuitive, but it does provides more features and better help resources.
 ## Cost
-GitHub follows a 3-tiered pricing model that provides you and your team with the following features:
-* **Free Plan**  
-   The basic plan for individuals and organizations. This plan includes:
-  * Unlimited public/private repositories
-  * 2,000 automation minutes/month
-  * 500MB of Packages storage 
-  * New Issues & Projects
-  * Community support
-* **Team Plan-$4/Month/User**  
-  Used for advanced collaboration for individuals and organizations. This plan adds:
-  * Protected branches
-  * Multiple reviewers in pull requests
-  * Draft pull requests
-  * Required reviewers
-  * 3,000 automation minutes/month 
-  * 2GB of Packages storage 
-  * Web-based support
-* **Enterprise Plan-$21/User/Month**  
-   Used for projects requiring extra security, compliance, and flexible deployment. This plan adds:
-  * Automatic security and version updates
-  * Advanced auditing
-  * GitHub Connect
-  * 50,000 automation minutes/month (Free for public repositories)
-  * 50GB of Packages storage (Free for public repositories)
-  * Exclusive Add-ons
-  * Premium support
+The basic version of GitHub is free, but it can cost between $4/user per month and $21/user per month for additional features and security.
 ## Required OS
 GitHub works on most major operating systems, such as: Windows, macOS, and Linux.
 ## Advantages
