@@ -3,10 +3,12 @@ As the volume of content in  organisations has proliferated, so the need to mana
 
 <sup>Prepared by:
 <a href="https://www.linkedin.com/in/sharon-schnee/">Sharon Schnee</a>, <a href="https://www.linkedin.com/in/alan-b-bari/">Alan Bariman</a>, and <a href="https://www.linkedin.com/in/sol-barron-36a07a1/">Shlomo Barron</a> 
-##
+
 
 ## Content Management Tools Comparative Matrix
+
 Select a logo for a more in-depth review.
+
 <table>
   <th>
     <td><a href="Wix.md"><img src='Wixlogo.png' height='25' width='70'></a></td> 
