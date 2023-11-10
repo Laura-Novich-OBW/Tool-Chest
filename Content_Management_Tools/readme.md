@@ -4,24 +4,26 @@ As the volume of content in organisations has proliferated, so the need to manag
 
 
 <sup>Prepared by:
-<a href="https://www.linkedin.com/in/sharon-schnee/">Sharon Schnee</a>, <a href="https://www.linkedin.com/in/alan-b-bari/">Alan Bariman</a>, and <a href="https://www.linkedin.com/in/sol-barron-36a07a1/">Shlomo Barron</a> 
+<a href="https://www.linkedin.com/in/sharon-schnee/">Sharon Schnee</a>, <a href="https://www.linkedin.com/in/alan-b-bari/">Alan Bariman</a>, and <a href="https://www.linkedin.com/in/sol-barron-36a07a1/">Shlomo Barron</a> </sup>
 
 
 ## Content Management Tools Comparative Matrix
 
 Select a logo for a more in-depth review.
 
+
 <table>
-  <th>
-    <td><a href="Wix.md"><img src='Wixlogo.png' height='25' width='70'></a></td> 
-    <td><a href="Drupal.md"><img src='drupal.png' height='30'></a></td> 
-    <td><a href="Paligo.md"><img src='paligo-logo-1.png' height='30'></a></td> 
-    <td><a href="MadCap.md"><img src='ixia-logo.png' height='35'></a></td> 
-    <td><a href="WordPress.md"><img src='WordPress-cropped-logo.png' height='30'></a></td> 
-    <td><a href="Heretto.md"><img src='Heretto-2.png' height='20'></a></td> 
-  </th>
+ <tr>
+	<th></th>	
+   <th><a href="Wix.md"><img src='Wixlogo.png' height='25' width='70' alt="Wix review file" ></a></th> 
+   <th><a href="Drupal.md"><img src='drupal.png' height='30' alt="Drupal review file" ></a></th> 
+	 <th><a href="Paligo.md"><img src='paligo-logo-1.png' height='30' alt="Paligo review file" ></a></th> 
+	 <th><a href="MadCap.md"><img src='ixia-logo.png' height='35' alt="MadCap IXIA review file" ></a></th> 
+	 <th><a href="WordPress.md"><img src='WordPress-cropped-logo.png' height='30' alt="WordPress review file" ></a></th> 
+	 <th><a href="Heretto.md"><img src='Heretto-2.png' height='20' alt="Heretto review file" ></a></th>
+ </tr>
   <tr>
-    <td><b>Open Source?</b></td>
+    <td><b>Open Source</b></td>
     <td>&#10060;</td>
     <td>&#9989;</td>
     <td>&#10060;</td>
