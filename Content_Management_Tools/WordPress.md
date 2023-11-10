@@ -1,6 +1,9 @@
 <a href="readme.md"><- Back</a>
 
  <a href="https://www.wordpress.com"><img src='WordPress-cropped-logo.png' height='70'></a>
+
+ By far the product with the largest market share, WordPress should be considered by anyone looking for a comprehensive CCMS. The fact that it is open source and therefore free to use as a basic offering should definitely endear it to first time users of this genre of product. 
+ 
  <table>
   <tr>
     <td><b>Vendor</td>
