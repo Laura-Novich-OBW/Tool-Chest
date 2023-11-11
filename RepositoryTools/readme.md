@@ -4,7 +4,7 @@ The world of technical writing is quickly becoming more globalized and less offi
 Repository tools are software applications that let users collaborate remotely, manage changes, and maintain one central hub of digital content.
 
 ## Comparison Table
-Here is a table comparing four of the most popular repository tools. Select a logo to read more about the tool.
+Here is a table comparing 4 popular repository tools. Select a logo to read more about the tool.
 
 |                                                                   | <a href="GitHub.md"><img src= "https://th.bing.com/th?id=OIP.fqZ9-PPqcG_cm0k3JfoINQAAAA&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)" alt="GitHub logo" width=100px height=50px align="middle" ></a>                  | <a href="GitLab.md"><img src= "https://th.bing.com/th/id/R.86ec19e4be82a5b0a590ae8ce076401a?rik=CvQdJhDFDDsNmQ&pid=ImgRaw&r=0"  alt= "GitLab logo" width=100px height=50px align="middle"/></a>               | <a href="CVS.md"><img src= "https://images.assetsdelivery.com/compings_v2/dizanna/dizanna2107/dizanna210701805.jpg" alt="CVS logo" width=50px height=50px align="middle"/></a>                       |  <a href="SharePoint.md"><img src="https://www.logolynx.com/images/logolynx/s_14/14b68835d0ab084e546d250720b462c8.png" alt="Sharepoint logo" width=100px height=50px align="middle"/></a>                  |
 |-------------------------------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
