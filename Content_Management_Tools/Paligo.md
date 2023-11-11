@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><b>Description</td>
-    <td>Paligo is a cloud-based component content management system based on DocBook, with a user-friendly interface.</td>
+    <td>Paligo is a cloud-based component content management system based on the DocBook XML content model, with a user-friendly interface.</td>
   </tr> 
   <tr>
     <td><b>Learning curve</td>
@@ -43,7 +43,7 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
-      <li><b>Dependence on the internet</b><br><i>Limits work to when internet access is available, and can affect performance.</i></li>
+      <li><b>Only available online</b><br><i>Requires work to be done online and connected to Paligo servers. This may cause security and performance issues.</i></li>
       <li><b>Limited access</b><br><i>Basic plans can be expensive to add users, and there are limited types of user options.</i></li>
       <li><b>Migration difficulties</b><br><i>A number of reviewers described difficulties transferring content from various sources including in the case of large content migrations. </i></li>
     </ul>
