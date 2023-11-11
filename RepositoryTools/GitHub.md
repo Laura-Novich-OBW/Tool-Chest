@@ -1,5 +1,6 @@
-# GitHub
-## Vendor
+<a href= "https://github.com/"><img src= "https://th.bing.com/th?id=OIP.fqZ9-PPqcG_cm0k3JfoINQAAAA&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="GitHub website" width=125px height=75px align="left" ></a>                                                                                   <br><br><br>  
+
+  ## Vendor
 Microsoft
 ## Open Source or Proprietary
 Proprietary
@@ -27,5 +28,3 @@ GitHub works on most major operating systems, such as: Windows, macOS, and Linux
   Since GitHub is cloud-based, even its private repositories are vulnerable to third-party attacks. That is why some employers only allow work to be done on a secure internal Git. 
 * **Pricing**  
  Some of Git's features are locked behind an SaaS paywall. If you have a large team, the price of using the repository with these features can add up fast.
-## Link to Vendor
-[GitHub Site](https://github.com)
