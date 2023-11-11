@@ -1,8 +1,8 @@
 <a href="readme.md"><- Back</a>  
 
-Paligo is a cloud-based Component Content Management System (CCMS) offering powerful single-sourced content reuse for documentation and efficient knowledge management. With a user-friendly SaaS UI, Paligo offers structured authoring using DocBook, an open standard XML content model.  
-
 <a href="https://www.paligo.net"><img src='paligo-logo-1.png' height='60'></a>
+
+Paligo is a cloud-based Component Content Management System (CCMS) offering powerful single-sourced content reuse for documentation and efficient knowledge management. With a user-friendly SaaS UI, Paligo provides structured authoring using DocBook, an open standard XML content model.  
 
 <table>
   <tr>
