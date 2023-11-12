@@ -14,8 +14,8 @@ This popular site generator transforms plain text documents (Markdown, HMTL, CSS
 Jekyll is a static site generator written in Ruby and with full support for markdown, turning the blogging experience much faster and easier. 
 
 ### Difficulty to Learn  
-
-2 out of 5 (1 is easiest and 5 the most difficult)  
+:star: :star:  
+Relatively easy  
 With or without knowledge of Ruby ecosystem, Jekyll is one of the easiest Static Site Generation (SSG) to learn.    
 
 ### Cost  
