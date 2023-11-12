@@ -24,16 +24,16 @@ Gatsby is free. However, users need to pay if they want to use Gatsby cloud.
 Operating systems like macOS Sierra, Windows 10 and Linux is used for authoring Gatsby themes.  
 
 ### Benefits
-* **SEO Efficiency**: Using GatsbyJS may leverage various internal code optimization techniques on the web pages. As a result, search engines will rank your website higher.  
+* **SEO efficiency**: Using GatsbyJS may leverage various internal code optimization techniques on the web pages. As a result, search engines will rank your website higher.  
 * **Plugins**: This includes several plugins that can help websites in various ways. All their plugins may be found on their official website.   
 * **Fast page load speed**: Their websites are substantially faster than many alternatives.  
 * **Templates**: Cloning and content editing are simple because of the number of starter repositories and templates. Websites can be developed quickly and effectively. 
-* **React-Based**: It has a short learning curve and is easy for developers of all levels.
+* **React-based**: It has a short learning curve and is easy for developers of all levels.
   
 ### Disadvantages
-* **Build Period**: GatsbyJS is not advised if you want to create a website that changes frequently.   
+* **Build period**: GatsbyJS is not advised if you want to create a website that changes frequently.   
 * **Lot of content**: The more content you have, the longer the build time will be.  
-* **Limited Dynamic Content**: Content that changes frequently is hard to manage in Gatsby.  
-* **Complex Environment**: Gatsby requires installing multiple dependencies and plugins, which increases complexity.
+* **Limited dynamic content**: Content that changes frequently is hard to manage in Gatsby.  
+* **Complex environment**: Gatsby requires installing multiple dependencies and plugins, which increases complexity.
 
 
