@@ -16,7 +16,7 @@
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>Wix is designed to be easy to learn and use.</td>
+    <td>Wix is designed to be easy to learn and use. Users should find the Wix interface intuitive and simple to master.</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
