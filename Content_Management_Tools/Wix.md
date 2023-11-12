@@ -1,6 +1,9 @@
 <a href="readme.md"><- Back</a>
 
 <a href="https://www.wix.com"><img src='Wixlogo.png' height='40'></a>
+
+Wix is a user-friendly, cloud-based Content Management System (CMS) known for its intuitive drag-and-drop interface. Ideal for beginners and experienced users, it offers a wide range of templates and third-party apps, making it a popular choice for quick and easy website development.
+
 <table>
   <tr>
     <td><b>Vendor</td>
