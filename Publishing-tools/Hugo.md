@@ -14,10 +14,11 @@ Lightning-fast static site generator designed for creating websites and blogs. I
 
 ### Difficulty to Learn
 ⭐⭐  
+
 Relatively easy to learn, especially for those familiar with Markdown and basic web development concepts. Its simplicity and well-documented features make it accessible to a wide range of users.
 
 ### Cost
-Free, although the licensing terms of individual plugins may vary..
+Free, although the licensing terms of individual plugins may vary.
 
 ### OS Requirements
 Windows, macOS, and Linux.
