@@ -1,8 +1,11 @@
 # Sphinx
 
- ![Sphinx logo](Sphinx_logo.png)
+<!-- ![Sphinx logo](Sphinx_logo.png) -->
+<img src="Sphinx_logo.png" alt="Sphinx logo" width="100"/>
 
 ### Vendor  
+[www.sphinx-doc.org](www.sphinx-doc.org)   
+
 Open-source publishing tool primarily developed by Georg Brandl and the Sphinx community.  
 
 ### Open Source or Proprietary
@@ -12,6 +15,9 @@ Open-source tool, available for free under the terms of the BSD license.
 A documentation generation tool that empowers writers to create and manage documentation with ease. It is commonly used in software development for generating documentation from reStructuredText, Markdown, and other markup languages. Sphinx is highly extensible and offers features for creating professional, structured, and cross-referenced documentation.
 
 ### Difficulty to Learn
+
+⭐⭐⭐⭐
+
 Has a steeper learning curve, especially for those who are new to markup languages like reStructuredText. However, it offers powerful features for documentation once mastered.
 
 ### Cost
@@ -29,7 +35,5 @@ choice for software projects and technical documentation.
   
 ### Disadvantages
 - Learning Curve: For beginners, Sphinx may seem complex, particularly for those not familiar with reStructuredText or similar markup languages.
-- Setup Complexity: The initial setup can be challenging for those new to the tool.
-  
-### Vendor Link: 
-www.sphinx-doc.org
+- Setup Complexity: The initial setup can be challenging for those new to the tool.  
+
