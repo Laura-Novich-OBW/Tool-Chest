@@ -4,7 +4,9 @@
 <img src="Sphinx_logo.png" alt="Sphinx logo" width="100"/>
 
 ### Vendor  
-[www.sphinx-doc.org](www.sphinx-doc.org)   
+<!-- [www.sphinx-doc.org](www.sphinx-doc.org)  -->
+
+<a href="http://www.sphinx-doc.org">www.sphinx-doc.org</a>
 
 Open-source publishing tool primarily developed by Georg Brandl and the Sphinx community.  
 
@@ -27,13 +29,13 @@ Entirely free to use as it's open source, meaning it is free to use without any 
 Cross-platform tool and is compatible with various operating systems, including Windows, macOS, and Linux.
 
 ### Benefits
-- Robust Documentation: Sphinx excels in creating well-structured and cross-referenced documentation, making it a top - 
+- **Robust Documentation:** Sphinx excels in creating well-structured and cross-referenced documentation, making it a top - 
 choice for software projects and technical documentation.
-- Customization: It offers extensive theming and customization options, allowing users to adapt the documentation to their needs.
-- Output Formats: Sphinx can generate documentation in various output formats, including HTML, PDF, and ePub.
-- Active Community: Sphinx has an active user community, which means ample support and available extensions.
+- **Customization:** It offers extensive theming and customization options, allowing users to adapt the documentation to their needs.
+- **Output Formats:** Sphinx can generate documentation in various output formats, including HTML, PDF, and ePub.
+- **Active Community:** Sphinx has an active user community, which means ample support and available extensions.
   
 ### Disadvantages
-- Learning Curve: For beginners, Sphinx may seem complex, particularly for those not familiar with reStructuredText or similar markup languages.
-- Setup Complexity: The initial setup can be challenging for those new to the tool.  
+- **Learning Curve:** For beginners, Sphinx may seem complex, particularly for those not familiar with reStructuredText or similar markup languages.
+- **Setup Complexity:** The initial setup can be challenging for those new to the tool.  
 
