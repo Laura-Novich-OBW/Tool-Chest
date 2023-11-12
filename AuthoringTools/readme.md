@@ -44,7 +44,7 @@ Contributions for MS Word and Flare were made by Natanya Da Costa. [Wix Profile]
 </tr>
 <tr>
 <td>MadCap Flare</td>
-  <td><a href="https://www.madcapsoftare.com">MadCap Software</a></td>
+  <td><a href="https://[www.madcapsoftare.com](https://www.madcapsoftware.com/)">MadCap Software</a></td>
   <td>Proprietary</td>
   <td>Technical writing software</td>
   <td>Steep</td>
