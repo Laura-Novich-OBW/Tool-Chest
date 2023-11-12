@@ -2,7 +2,7 @@
  <img src="WordPress-Logo-2008-present.jpg" alt="WordPress-Logo" width="200"/>
  
 ### Vendor:  
-WordPress Foundation.
+[WordPress Foundation](https://wordpress.com/).
 
 ### Open Source or Proprietary:
 Open source.
@@ -11,7 +11,7 @@ Open source.
 A web content management system, one of the most popular in the world.
 
 ### Difficulty to Learn:
-3 out of 5 (average difficulty).
+⭐⭐⭐ 3 out of 5 (average difficulty).
 
 ### Cost:
 Free. Commercial plugins and themes are also available.
@@ -20,16 +20,15 @@ Free. Commercial plugins and themes are also available.
 Unix-like, Linux, Windows.
 
 ### Benefits:
+WordPress is a well-developed, popular, free and open source platform which allows all kinds of web content management and is SEO-friendly.
 * Free, with advanced (but paid) options available at wordpress.com and other hosting services.
 * An old, reliable project with well-developed user documentation.
 * Flexible and customizable (thousands of plugins and themes).
 * SEO-friendly by default.
-* eCommerce features available through the WooCommerce plugin.
+* eCommerce features available through the [WooCommerce plugin](https://wordpress.org/plugins/woocommerce/).
 
 ### Disadvantages:
+Created and maintaned by enthuasiasts and volunteers, sometimes WordPress can be difficult to update. It is heavily dependant on plugins, which are often maintained by third parties. WordPress also has a record of discovered security vulnerabilities.
 * Difficult to keep up with updates.
 * Security vulnerabilities.
 * Dependency on plugins, which are often imperfect.
-  
-### Vendor Link: 
-https://wordpress.org
