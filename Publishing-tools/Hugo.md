@@ -2,7 +2,7 @@
 <img src="Hugo_logo.png" alt="Hugo" width="100"/>
 
 ### Vendor  
-[GoHugo.io](GoHugo.io)  
+<a href="https://gohugo.io">GoHugo.io</a> 
 
 Open-source publishing tool created by a community of developers and contributors.  
 
