@@ -2,7 +2,9 @@
 <img src="Jekyll_(software)_Logo.png" alt="Jekyll_(software)_logo" width="100"/>  
 
 ### Vendor  
-Hosted by GitHub, Jekyll (www.jekyllrb.com) is maintained by the core team of volunteers.  
+www.jekyllrb.com  
+
+Hosted by GitHub, Jekyll is maintained by the core team of volunteers.  
 
 ### Open Source or Proprietary  
 Open source distributed under MIT license.  
@@ -12,6 +14,7 @@ This popular site generator transforms plain text documents (Markdown, HMTL, CSS
 Jekyll is a static site generator written in Ruby and with full support for markdown, turning the blogging experience much faster and easier. 
 
 ### Difficulty to Learn  
+
 2 out of 5 (1 is easiest and 5 the most difficult)  
 With or without knowledge of Ruby ecosystem, Jekyll is one of the easiest Static Site Generation (SSG) to learn.    
 
