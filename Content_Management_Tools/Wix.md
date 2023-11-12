@@ -16,7 +16,7 @@
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>Wix is designed to be easy to learn and use. Wix's do-it-yourself website building tools ensure that anyone with basic computer knowledge can engage with their tools in a simple and direct way. .</td>
+    <td>Wix is designed to be easy to learn and use. Wix's do-it-yourself website building tools ensure that anyone with basic computer knowledge can engage with their tools in a simple and direct way.</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
