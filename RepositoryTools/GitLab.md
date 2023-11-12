@@ -1,4 +1,4 @@
-# GitLab
+<a href="https://about.gitlab.com/"><img src= "https://th.bing.com/th/id/R.86ec19e4be82a5b0a590ae8ce076401a?rik=CvQdJhDFDDsNmQ&pid=ImgRaw&r=0" alt="GitLab website" width=120px height=75px align="middle"/></a>
 
 ## Vendor
 GitLab Inc.
@@ -34,5 +34,4 @@ It works on any OS, but it's more stable and secure with Linux.
 - Most features aren't available in the free version.
 - Can get expensive (up to $100/month)
 
-## Link to Vendor
-[GitLab site](https://about.gitlab.com/)
+

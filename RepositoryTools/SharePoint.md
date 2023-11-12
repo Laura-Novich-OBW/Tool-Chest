@@ -1,4 +1,4 @@
-# SharePoint
+<a href="https://www.microsoft.com/en/microsoft-365/sharepoint/collaboration"><img src="https://www.logolynx.com/images/logolynx/s_14/14b68835d0ab084e546d250720b462c8.png" alt="Sharepoint website" width=150px height=90px align="middle"/></a>
 
 ## Vendor
 Microsoft
@@ -32,5 +32,3 @@ The cloud-based version (SharePoint Online) can be accessed using a web browser 
 - Meant more for documents, less for code collaboration
 - Only one person can edit at a time
 
-## Link to Vendor
-[SharePoint site](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
