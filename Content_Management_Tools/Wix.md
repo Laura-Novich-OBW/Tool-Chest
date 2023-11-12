@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Wix is web-based and does not require any specific OS to operate. See here for <a href="https://support.wix.com/en/article/supported-browsers">supported browsers</a>.</td>
+    <td>Wix is web-based and does not require any specific operating system to function properly. See here for <a href="https://support.wix.com/en/article/supported-browsers">supported browsers</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>
