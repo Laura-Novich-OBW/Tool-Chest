@@ -2,6 +2,8 @@
 
  <a href="https://www.heretto.com"><img src='Heretto-2.png' height='40'></a> 
 
+ While not having the same market share as WordPress, Heretto is already gaining a reputation as a solid competitor in the CCMS market for its comprehensive capabilities and support for larger writing teams. 
+
 <table>
   <tr>
     <td><b>Vendor</td>
@@ -41,6 +43,7 @@
   <td><b>Drawbacks</td>
   <td>
     <ul>
+      <li><b>Host connection required</b><br><i>As a cloud-based only solution Heretto cannot operate without a permamnent and reliable connection to the hosting service.</i>
       <li><b>Technically oriented</b><br><i>Non-technical users will find the user interface challenging at first.</i></li>
       <li><b>Inconsistent UI</b><br><i>User interface is not always consistent in the placing of common buttons and controls.</i></li>
       <li><b>Expensive</b><br><i>Smaller businesses may find the pricing model prohibitive.</i></li>
