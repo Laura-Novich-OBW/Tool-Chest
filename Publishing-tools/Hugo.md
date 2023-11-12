@@ -1,7 +1,9 @@
 # Hugo
-![Hugo logo](Hugo_logo.png)
+<img src="Hugo_logo.png" alt="Hugo" width="100"/>
 
 ### Vendor  
+[GoHugo.io](GoHugo.io)  
+
 Open-source publishing tool created by a community of developers and contributors.  
 
 ### Open Source or Proprietary
@@ -11,7 +13,8 @@ Open-source.
 Lightning-fast static site generator designed for creating websites and blogs. It allows users to write content in Markdown and then generates static HTML pages. The tool is known for its exceptional speed, simplicity, and flexibility,   making it a preferred choice for developers and content creators.
 
 ### Difficulty to Learn
-2 out of 5. Relatively easy to learn, especially for those familiar with Markdown and basic web development concepts. Its simplicity and well-documented features make it accessible to a wide range of users.
+⭐⭐  
+Relatively easy to learn, especially for those familiar with Markdown and basic web development concepts. Its simplicity and well-documented features make it accessible to a wide range of users.
 
 ### Cost
 Free, although the licensing terms of individual plugins may vary..
@@ -28,6 +31,4 @@ Windows, macOS, and Linux.
 - Steeper Learning Curve for Advanced Customization: While it's easy to get started, advanced customization may require a deeper understanding of Go templates.
 - Limited Dynamic Content: As a static site generator, Hugo is less suited for websites that require real-time dynamic content.
   
-### Vendor Link: 
-[GoHugo.io](GoHugo.io)
 
