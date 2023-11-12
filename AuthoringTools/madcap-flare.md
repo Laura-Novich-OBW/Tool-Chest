@@ -34,7 +34,7 @@ Most reviews seem to indicate that there is a steep learning curve in MadCap Fla
 
 ## `Cost Rating`    
 
-MadCap Flare prices at $182 per month/per user, billed annually. This is a total of $2 180.00. The price will increase to $2 333.00 on 1 January 2024.
+MadCap Flare prices at $182.00 per month/per user, billed annually. This is a total of $2,180.00. The price will increase to $2,333.00 on 1 January 2024.
 MadCap Flare is considered a top multi-channel authoring tool, but it is quite expensive. If you know that you will have enough clients/projects to make it worthwhile purchasing, then it will be a good investment.  It has numerous free, built-in web features which other authoring tools charge an exorbitant subscription for—so if your company or the company you work for as a technical writer is planning on doing more than just basic print to pdf then it will be a lot more viable/cheaper to purchase a license. 
 It is important to remember that MadCap Flare may be more expensive than other authoring tools, because it is a professional tool designed for complex documentation projects.
 
@@ -69,4 +69,4 @@ It is important to remember that MadCap Flare may be more expensive than other a
 * **Instability:** MadCap Flare can be unstable. Users have reported it crashing often, displaying “buggy” behavior, and freezing when syncing.
   
 ## `OS Requirement`  
-MadCap Flare will run on Windows based operating systems only.
+MadCap Flare runs on Windows based operating systems only.
