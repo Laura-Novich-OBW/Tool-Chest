@@ -8,7 +8,7 @@
 Open source.
 
 ### Description:
-A web content management system, one of the most popular in the world.
+A web content management system, one of the most popular in the world, WordPress is used to publish 42.8% of the top 10 million websites as of October 2021. To function, WordPress has to be installed on a web server, either as part of an Internet hosting service or on a computer running the WordPress software package. It uses different themes and plugins.
 
 ### Difficulty to Learn:
 ⭐⭐⭐ 3 out of 5 (average difficulty).
