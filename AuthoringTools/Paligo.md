@@ -27,7 +27,7 @@ Paligo has three pricing editions: Professional, Business, and Enterprise. The e
 * Supports open standards and extensibility.
 
 ## `Paligo Disadvantages`    
-* There are some bugs and performance issues.
+* Bugs and performance issues have been reported by Paligo users.
 * Limitations in its features and customization.
 * Challenges with translation and localization.
 * Does not have a desktop version or an offline mode.
