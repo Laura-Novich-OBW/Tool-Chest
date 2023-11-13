@@ -64,7 +64,7 @@ If you are a freelance technical writer/contractor you will most certainly benef
 * **Find and Replace:**
 This powerful feature allows users to replace a word across an entire document with the click of a button.
 
-* **Tracks Change:**
+* **Track Changes:**
 As outlined in the description section, this feature is useful for other users to review and suggest edits to a specific document.
 
 * **User-Familiarity:**
