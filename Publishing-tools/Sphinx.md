@@ -30,7 +30,6 @@ Cross-platform tool and is compatible with various operating systems, including 
 
 ### Benefits
 - **Robust Documentation**: Sphinx excels in creating well-structured and cross-referenced documentation, making it a great choice for software projects and technical documentation.
-choice for software projects and technical documentation.
 - **Customization:** It offers extensive theming and customization options, allowing users to adapt the documentation to their needs.
 - **Output Formats:** Sphinx can generate documentation in various output formats, including HTML, PDF, and ePub.
 - **Active Community:** Sphinx has an active user community, which means ample support and available extensions.
