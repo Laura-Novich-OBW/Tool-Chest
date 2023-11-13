@@ -36,5 +36,5 @@ Cross-platform tool and is compatible with various operating systems, including 
   
 ### Disadvantages
 - **Learning Curve**: For beginners, Sphinx may seem complex, particularly for those not familiar with reStructuredText or similar markup languages.
-- **Setup Complexity:** The initial setup can be challenging for those new to the tool.  
+- **Setup Complexity**: The initial setup can be challenging for those new to the tool.  
 
