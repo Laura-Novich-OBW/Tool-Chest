@@ -1,4 +1,4 @@
-# Microsoft Word  :star_of_david:
+# Microsoft Word  
 <img src="wordlogo.png" width="100" height="100">
 
 ## `Vendor`
@@ -64,22 +64,23 @@ If you are a freelance technical writer/contractor you will most certainly benef
 * **Find and Replace:**
 This powerful feature allows users to replace a word across an entire document with the click of a button.
 
-* **Tracks Change:**
-This feature, as outlined in the description section, is useful for other users to review and suggest edits to a specific document.
+* **Track Changes:**
+As outlined in the description section, this feature is useful for other users to review and suggest edits to a specific document.
 
 * **User-Familiarity:**
 Most of us have grown up with MS Word, using it both at school and in our working environment. It is the natural “go-to” choice when you need to write anything in a business environment.
 
 * **Mobile App Extendability:**
-The features of Microsoft Word also extend to its mobile apps. The mobile app allows writers to access and edit documents on the go, without much fuss, on their mobile devices, while collaborating with other users.
+Microsoft Word features also extend to its mobile apps. The mobile app allows writers to access and edit documents on the go, without much fuss, on their mobile devices, while collaborating with other users.
 
 ## `Microsoft Word Disadvantages`
 
-* MS Word is not specifically designed for creating user manuals, help files, documentation websites, or eBooks. Consequently, a technical writer may find it difficult to produce accurate and maintainable documentation projects while using this software.
-* MS Word is a very complex piece of software trying to do too much. As mentioned in the learning curve, it can be difficult to learn all of its features effectively.
+* User manuals, help files, documentation websites, or eBooks are not the type of projects for which MS Word is specifically designed. Consequently, a technical writer may find it difficult to produce accurate and 
+  maintainable documentation projects while using this software.
+* Being a very complex piece of software trying to do too much, it can be difficult to learn all of its features effectively (as previously mentioned in the learning curve section). 
 * MS Word focuses on single document editing only. Producing consistently styled, and interlinked documents, or reuse media elements such as pictures and videos, in multiple documents, becomes very problematic.
 * It is not easy to make changes in MS Word documents. Future changes in a document may leave you manually making changes throughout the document which also affects the document formatting in other places. This is frustrating, time consuming and an inefficient way to work.
 
 ## `OS Requirements`
-Microsoft Word runs on Windows 10 or later.
+Microsoft Word runs on Windows 10 or later; as well as on MacOS. Office 365 also provides a SaaS environment.
 
