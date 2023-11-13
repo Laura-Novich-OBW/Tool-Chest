@@ -30,6 +30,6 @@ Windows, macOS, and Linux.
   
 ### Disadvantages
 - **Steeper Learning Curve for Advanced Customization**: While it's easy to get started, advanced customization may require a deeper understanding of Go templates.
-- **Limited Dynamic Content:** As a static site generator, Hugo is less suited for websites that require real-time dynamic content.
+- **Limited Dynamic Content**: As a static site generator, Hugo is less suited for websites that require real-time dynamic content.
   
 
