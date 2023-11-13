@@ -1,6 +1,9 @@
 <a href="readme.md"><- Back</a>
 
 <a href="https://www.drupal.org"><img src='drupal.png' height='50'></a>
+
+Drupal is a robust open-source CMS, recognized for its scalability and flexibility. While not as widespread as some competitors, it excels in building complex websites and applications. With a modular architecture, Drupal allows for advanced customization, making it a preferred choice for developers and enterprises with specific needs.
+
 <table>
   <tr>
     <td><b>Vendor</td>
