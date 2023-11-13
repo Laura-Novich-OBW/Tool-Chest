@@ -1,6 +1,9 @@
 <a href="readme.md"><- Back</a>
 
 <a href="https://www.wix.com"><img src='Wixlogo.png' height='40'></a>
+
+Wix is a user-friendly, cloud-based Content Management System (CMS) known for its intuitive drag-and-drop interface. Ideal for beginners and experienced users, it offers a wide range of templates and third-party apps, making it a popular choice for quick and easy website development.
+
 <table>
   <tr>
     <td><b>Vendor</td>
@@ -16,7 +19,7 @@
   </tr> 
   <tr>
     <td><b>Learning curve</td>
-    <td>Wix is designed to be easy to learn and use.</td>
+    <td>Wix is designed to be easy to learn and use. Wix's do-it-yourself website building tools ensure that anyone with basic computer knowledge can engage with their tools in a simple and direct way.</td>
   </tr> 
   <tr>
     <td><b>Cost</td>
@@ -24,7 +27,7 @@
   </tr>
   <tr>
     <td><b>Operating System</td>
-    <td>Wix is web-based and does not require any specific OS to operate. See here for <a href="https://support.wix.com/en/article/supported-browsers">supported browsers</a>.</td>
+    <td>Wix is web-based and does not require any specific operating system to function properly. See here for <a href="https://support.wix.com/en/article/supported-browsers">supported browsers</a>.</td>
   </tr> 
   <tr>
     <td><b>Benefits</td>

@@ -2,7 +2,7 @@
 
  <a href="https://www.madcapsoftware.com"><img src='ixia-logo.png' height='80'></a> 
  
-A scalable, adaptable, collaborative DITA Component Content Management System (CCMS) based on the DITA standard (Darwin Information Typing Architecture). MadCap IXIA offers enterprise-class functionality through an open XML-based method, providing content managers with advanced tools to streamline technical documentation.
+A scalable, adaptable, collaborative DITA CCMS (Component Content Management System) based on the DITA standard (Darwin Information Typing Architecture). MadCap IXIA offers enterprise-class functionality through an open standard XML-based content method, providing content managers with advanced tools to streamline technical documentation.
 
 <table>
   <tr>
