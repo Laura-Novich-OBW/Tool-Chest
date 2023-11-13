@@ -35,6 +35,6 @@ Cross-platform tool and is compatible with various operating systems, including 
 - **Active Community**: Sphinx has an active user community, which means ample support and available extensions.
   
 ### Disadvantages
-- **Learning Curve:** For beginners, Sphinx may seem complex, particularly for those not familiar with reStructuredText or similar markup languages.
+- **Learning Curve**: For beginners, Sphinx may seem complex, particularly for those not familiar with reStructuredText or similar markup languages.
 - **Setup Complexity:** The initial setup can be challenging for those new to the tool.  
 
