@@ -1,6 +1,6 @@
 # Content Management Tools
 
-As the volume of content in organizations has proliferated, so the need to manage and govern that content has increased. Content management tools address this requirement with a set of capabilities that spans the entire content lifecycle from creation through to deletion. As such, these systems often include tools found in other categories covered by this project.<p>
+As the volume of content in organizations has proliferated, the need to manage and govern that content has increased. Content management tools address this requirement with a set of capabilities that spans the entire content lifecycle from creation through to deletion. As such, these systems often include tools found in other categories covered by this project.<p>
 
 <sup>Prepared by:
 <a href="https://www.linkedin.com/in/sharon-schnee/">Sharon Schnee</a>, <a href="https://www.linkedin.com/in/alan-b-bari/">Alan Bariman</a>, and <a href="https://www.linkedin.com/in/sol-barron-36a07a1/">Shlomo Barron</a>  
